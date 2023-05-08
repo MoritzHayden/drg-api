@@ -1,0 +1,157 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://drgapi.com/v1/deep-dives/schema.json",
+  "title": "DRG Weekly Deep Dives Schema V1",
+  "type": "object",
+  "required": ["deepDives"],
+  "properties": {
+    "deepDives": {
+      "type": "object",
+      "required": ["date", "variants"],
+      "properties": {
+        "date": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "variants": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["variant", "name", "biome", "stages"],
+            "properties": {
+              "variant": {
+                "type": "string",
+                "enum": ["Deep Dive", "Elite Deep Dive"]
+              },
+              "name": {
+                "type": "string"
+              },
+              "biome": {
+                "type": "string",
+                "enum": [
+                  "Crystalline Caverns",
+                  "Salt Pits",
+                  "Fungus Bogs",
+                  "Radioactive Exclusion Zone",
+                  "Dense Biozone",
+                  "Glacial Strata",
+                  "Hollow Bough",
+                  "Azure Weald",
+                  "Magma Core",
+                  "Sandblasted Corridors"
+                ]
+              },
+              "stages": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["id", "primary", "secondary"],
+                  "properties": {
+                    "id": {
+                      "type": "integer",
+                      "enum": [1, 2, 3]
+                    },
+                    "primary": {
+                      "type": "string"
+                    },
+                    "secondary": {
+                      "type": "string"
+                    },
+                    "anomaly": {
+                      "type": "string",
+                      "enum": [
+                        "Critical Weakness",
+                        "Double XP",
+                        "Gold Rush",
+                        "Golden Bugs",
+                        "Low Gravity",
+                        "Mineral Mania",
+                        "Rich Atmosphere",
+                        "Volatile Guts"
+                      ]
+                    },
+                    "warning": {
+                      "type": "string",
+                      "enum": [
+                        "Cave Leech Cluster",
+                        "Elite Threat",
+                        "Exploder Infestation",
+                        "Haunted Cave",
+                        "Lethal Enemies",
+                        "Low Oxygen",
+                        "Mactera Plague",
+                        "Parasites",
+                        "Regenerative Bugs",
+                        "Rival Presence",
+                        "Shield Disruption",
+                        "Swarmageddon"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "example": {
+    "deepDives": {
+      "date": "2023-05-04T11:00:00+0000",
+      "variants": [
+        {
+          "variant": "Deep Dive",
+          "name": "Fractured Return",
+          "biome": "Salt Pits",
+          "stages": [
+            {
+              "id": 1,
+              "primary": "4 Eggs",
+              "secondary": "150 Morkite",
+              "anomaly": "Low Gravity",
+              "warning": "Regenerative Bugs"
+            },
+            {
+              "id": 2,
+              "primary": "Hiveguard + Twins",
+              "secondary": "Black Box",
+              "warning": "Exploder Infestation"
+            },
+            {
+              "id": 3,
+              "primary": "7 Aquarqs",
+              "secondary": "Black Box"
+            }
+          ]
+        },
+        {
+          "variant": "Elite Deep Dive",
+          "name": "Morning Darkness",
+          "biome": "Glacial Strata",
+          "stages": [
+            {
+              "id": 1,
+              "primary": "225 Morkite",
+              "secondary": "2 Mini-Mules",
+              "warning": "Elite Threat"
+            },
+            {
+              "id": 2,
+              "primary": "Escort Duty",
+              "secondary": "2 Eggs",
+              "anomaly": "Low Gravity",
+              "warning": "Low Oxygen"
+            },
+            {
+              "id": 3,
+              "primary": "10 Aquarqs",
+              "secondary": "150 Morkite",
+              "warning": "Shield Disruption"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
