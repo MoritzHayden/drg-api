@@ -2,10 +2,8 @@
 
 <div align="center">
 
-  [![Platform](https://img.shields.io/badge/version-v1-green.svg)](https://discord.com)
-  [![Code Size](https://img.shields.io/github/languages/code-size/MoritzHayden/drg-api?color=purple)](https://drgapi.com/)
-  [![License](https://img.shields.io/github/license/MoritzHayden/drg-api?color=darkred)](https://github.com/MoritzHayden/drg-api/blob/main/LICENSE)
-
+  [![Platform](https://img.shields.io/badge/version-v1-green.svg)](./v1/)
+  [![License](https://img.shields.io/github/license/MoritzHayden/drg-api?color=darkred)](./LICENSE)
   [![Issues](https://img.shields.io/github/issues/MoritzHayden/drg-api?color=informational)](https://github.com/MoritzHayden/drg-api/issues)
   [![Pull Requests](https://img.shields.io/github/issues-pr/MoritzHayden/drg-api?color=informational)](https://github.com/MoritzHayden/drg-api/pulls)
 
