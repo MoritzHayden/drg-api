@@ -11,6 +11,7 @@ from util.constants import (
     CONTACT_EMAIL,
     GITHUB_TOS_URL,
     GITHUB_LICENSE_URL,
+    DEEPDIVES_JSON,
     STATUS,
     OK,
     NAME,
@@ -39,7 +40,7 @@ api = FastAPI(
 # Deep Dives
 @api.get("/deepdives", response_model=DeepDives, status_code=200)
 async def deepdives() -> DeepDives:
-    with open("json/deepdives.json", "r") as file:
+    with open(DEEPDIVES_JSON, "r") as file:
         return DeepDives.parse_raw(file.read())
 
 # Health Check

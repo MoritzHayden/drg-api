@@ -14,6 +14,9 @@ GITHUB_ROOT_URL: str = "https://github.com/MoritzHayden/drg-api"
 GITHUB_LICENSE_URL: str = "/".join([GITHUB_ROOT_URL, "blob", "main", "LICENSE"])
 GITHUB_TOS_URL: str = "/".join([GITHUB_ROOT_URL, "blob", "main", "docs", "TERMS-OF-SERVICE.md"])
 
+# JSON
+DEEPDIVES_JSON: str = "json/deepdives.json"
+
 # Misc
 STATUS: str = "status"
 OK: str = "OK"
