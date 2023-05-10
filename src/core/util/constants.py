@@ -18,14 +18,15 @@ View the source code on [GitHub]({GITHUB_ROOT_URL}).
 """
 API_VERSION: str = "1.0.0"
 API_LICENSE_NAME: str = "MIT License"
-API_ROOT: str = "/"
 
 
 # Paths
-V1_DEEPDIVES_PATH = "v1/json/deepdives.json"
-V1_SALUTES_PATH = "v1/json/salutes.json"
-V1_TRIVIA_PATH = "v1/json/trivia.json"
+V1_DEEPDIVES_PATH: str = "v1/json/deepdives.json"
+V1_SALUTES_PATH: str = "v1/json/salutes.json"
+V1_TRIVIA_PATH: str = "v1/json/trivia.json"
 FAVICON_PATH: str = "core/img/favicon.ico"
+FAVICON_URL: str = "/favicon.ico"
+OPEN_API_URL: str = "/openapi.json"
 
 
 # Misc
