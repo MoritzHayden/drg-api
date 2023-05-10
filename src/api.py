@@ -33,7 +33,8 @@ api = FastAPI(
     license_info={
         NAME: API_LICENSE_NAME,
         URL: GITHUB_LICENSE_URL,
-    }
+    },
+    swagger_favicon_url=FAVICON_PATH
 )
 
 
