@@ -20,7 +20,7 @@ API_ROOT: str = "/"
 
 # Paths
 DEEPDIVES_PATH: str = "json/deepdives.json"
-FAVICON_PATH: str = "favicon.ico"
+FAVICON_PATH: str = "img/favicon.ico"
 
 # Misc
 NAME: str = "name"
