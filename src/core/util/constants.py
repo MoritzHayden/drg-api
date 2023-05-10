@@ -2,10 +2,12 @@
 CONTACT_NAME: str = "DRG API Help"
 CONTACT_EMAIL: str = "help@drgapi.com"
 
+
 # GitHub
 GITHUB_ROOT_URL: str = "https://github.com/MoritzHayden/drg-api"
 GITHUB_LICENSE_URL: str = "/".join([GITHUB_ROOT_URL, "blob", "main", "LICENSE"])
 GITHUB_TOS_URL: str = "/".join([GITHUB_ROOT_URL, "blob", "main", "docs", "TERMS-OF-SERVICE.md"])
+
 
 # API
 API_TITLE: str = "DRG API"
@@ -18,9 +20,13 @@ API_VERSION: str = "1.0.0"
 API_LICENSE_NAME: str = "MIT License"
 API_ROOT: str = "/"
 
+
 # Paths
-DEEPDIVES_PATH: str = "json/deepdives.json"
-FAVICON_PATH: str = "img/favicon.ico"
+V1_DEEPDIVES_PATH = "v1/json/deepdives.json"
+V1_SALUTES_PATH = "v1/json/salutes.json"
+V1_TRIVIA_PATH = "v1/json/trivia.json"
+FAVICON_PATH: str = "core/img/favicon.ico"
+
 
 # Misc
 NAME: str = "name"
