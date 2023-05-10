@@ -1,10 +1,8 @@
 from fastapi import APIRouter
-from fastapi.responses import JSONResponse
-import json
+from core.util.constants import V1_DEEPDIVES_PATH, V1_SALUTES_PATH, V1_TRIVIA_PATH
 from .model.deepdives import DeepDives
 from .model.salutes import Salutes
 from .model.trivia import Trivia
-from core.util.constants import V1_DEEPDIVES_PATH, V1_SALUTES_PATH, V1_TRIVIA_PATH
 
 
 # Initialize Routers
@@ -20,7 +18,7 @@ async def deepdives() -> DeepDives:
     """
     Get the current weekly Deep Dive details.
     """
-    with open(V1_DEEPDIVES_PATH, "r") as file:
+    with open(file=V1_DEEPDIVES_PATH, mode="r", encoding="UTF-8") as file:
         return DeepDives.parse_raw(file.read())
 
 
@@ -30,7 +28,7 @@ async def salutes():
     """
     Get a list of salutes used in the game.
     """
-    with open(V1_SALUTES_PATH, "r") as file:
+    with open(file=V1_SALUTES_PATH, mode="r", encoding="UTF-8") as file:
         return Salutes.parse_raw(file.read())
 
 
@@ -40,5 +38,5 @@ async def trivia() -> Trivia:
     """
     Get a list of game trivia.
     """
-    with open(V1_TRIVIA_PATH, "r") as file:
+    with open(file=V1_TRIVIA_PATH, mode="r", encoding="UTF-8") as file:
         return Trivia.parse_raw(file.read())
