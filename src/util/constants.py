@@ -1,5 +1,3 @@
-from pydantic import Field
-
 # Contact
 CONTACT_NAME: str = "DRG API Help"
 CONTACT_EMAIL: str = "help@drgapi.com"

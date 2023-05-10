@@ -29,6 +29,7 @@ class Biome(str, Enum):
     MAGMA_CORE = "Magma Core"
     SANDBLASTED_CORRIDORS = "Sandblasted Corridors"
 
+
 class Anomaly(str, Enum):
     """
     An anomaly that can appear in a Deep Dive stage.
