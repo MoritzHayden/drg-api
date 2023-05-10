@@ -8,6 +8,7 @@
   [![License](https://img.shields.io/github/license/MoritzHayden/drg-api?color=darkred)](./LICENSE)
 
   [![CodeQL](https://github.com/MoritzHayden/drg-api/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/MoritzHayden/drg-api/actions/workflows/codeql.yml)
+  [![Pylint](https://github.com/MoritzHayden/drg-api/actions/workflows/pylint.yml/badge.svg?branch=main)](https://github.com/MoritzHayden/drg-api/actions/workflows/pylint.yml)
   [![Issues](https://img.shields.io/github/issues/MoritzHayden/drg-api?color=informational)](https://github.com/MoritzHayden/drg-api/issues)
   [![Pull Requests](https://img.shields.io/github/issues-pr/MoritzHayden/drg-api?color=informational)](https://github.com/MoritzHayden/drg-api/pulls)
 
