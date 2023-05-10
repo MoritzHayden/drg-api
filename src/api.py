@@ -42,7 +42,7 @@ api = FastAPI(
 @api.get("/deepdives", tags=["v1"], response_model=DeepDives, status_code=200)
 async def deepdives() -> DeepDives:
     """
-    Get the weekly Deep Dive details.
+    Get the current weekly Deep Dive details.
     """
     with open(DEEPDIVES_PATH, "r") as file:
         return DeepDives.parse_raw(file.read())
@@ -52,7 +52,7 @@ async def deepdives() -> DeepDives:
 @api.get("/health", tags=["v1"], response_class=JSONResponse, status_code=200)
 async def health() -> dict:
     """
-    Check the health status of the API.
+    Check the health of the API.
     """
     return {}
 
