@@ -39,8 +39,8 @@ fi
 # Run API
 if [ "$dev_flag" = true ]; then
     echo "Running API (Development Mode)..."
-    pipenv run uvicorn api:api --host localhost --port 8080 --reload
+    pipenv run uvicorn main:api --host localhost --port 8080 --reload
 else
     echo "Running API (Production Mode)..."
-    pipenv run uvicorn api:api --workers 4 --host 0.0.0.0 --port 8080
+    pipenv run uvicorn main:api --workers 4 --host 0.0.0.0 --port 8080
 fi
