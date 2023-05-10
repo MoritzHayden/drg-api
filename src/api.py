@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from fastapi.responses import JSONResponse, RedirectResponse
+from fastapi.responses import FileResponse, JSONResponse
 from model.deepdives import DeepDives
 from util.constants import (
     API_TITLE,
@@ -11,12 +11,11 @@ from util.constants import (
     CONTACT_EMAIL,
     GITHUB_TOS_URL,
     GITHUB_LICENSE_URL,
-    DEEPDIVES_JSON,
-    STATUS,
-    OK,
+    DEEPDIVES_PATH,
+    FAVICON_PATH,
     NAME,
     URL,
-    EMAIL
+    EMAIL,
 )
 
 
@@ -37,13 +36,30 @@ api = FastAPI(
     }
 )
 
+
 # Deep Dives
-@api.get("/deepdives", response_model=DeepDives, status_code=200)
+@api.get("/deepdives", tags=["v1"], response_model=DeepDives, status_code=200)
 async def deepdives() -> DeepDives:
-    with open(DEEPDIVES_JSON, "r") as file:
+    """
+    Get the weekly Deep Dive details.
+    """
+    with open(DEEPDIVES_PATH, "r") as file:
         return DeepDives.parse_raw(file.read())
 
+
 # Health Check
-@api.get("/health", response_class=JSONResponse, status_code=200)
+@api.get("/health", tags=["v1"], response_class=JSONResponse, status_code=200)
 async def health() -> dict:
-    return {STATUS: OK}
+    """
+    Check the health status of the API.
+    """
+    return {}
+
+
+# Favicon
+@api.get('/favicon.ico', response_class=FileResponse, include_in_schema=False)
+async def favicon():
+    """
+    Get the favicon for the API.
+    """
+    return FileResponse(FAVICON_PATH)
