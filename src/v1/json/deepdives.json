@@ -18,13 +18,13 @@
         {
           "id": 2,
           "primary": "2 Mini-Mules",
-          "secondary": "Dreadnaught",
+          "secondary": "Dreadnought",
           "anomaly": null,
           "warning": "Shield Disruption"
         },
         {
           "id": 3,
-          "primary": "Twins + Dreadnaught",
+          "primary": "Twins + Dreadnought",
           "secondary": "150 Morkite",
           "anomaly": null,
           "warning": "Low Oxygen"
@@ -54,7 +54,7 @@
         {
           "id": 3,
           "primary": " 225 Morkite",
-          "secondary": "Dreadnaught",
+          "secondary": "Dreadnought",
           "anomaly": null,
           "warning": "Swarmageddon"
         }
