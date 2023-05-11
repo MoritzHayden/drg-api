@@ -1,55 +1,62 @@
 {
-  "startTime": "2023-05-04T11:00:00Z",
-  "endTime": "2023-05-11T11:00:00Z",
+  "startTime": "2023-05-11T11:00:00Z",
+  "endTime": "2023-05-18T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Fractured Return",
-      "biome": "Salt Pits",
-      "seed": 3109977323,
+      "name": "Corroded Reserve",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 259722398,
       "stages": [
         {
           "id": 1,
-          "primary": "4 Eggs",
-          "secondary": "150 Morkite",
-          "warning": "Regenerative Bugs"
+          "primary": "Escort Duty",
+          "secondary": "2 Eggs",
+          "anomaly": "Low Gravity",
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Hiveguard + Twins",
-          "secondary": "Black Box",
-          "warning": "Exploder Infestation"
+          "primary": "2 Mini-Mules",
+          "secondary": "Dreadnaught",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         },
         {
           "id": 3,
-          "primary": "7 Aquarqs",
-          "secondary": "Black Box"
+          "primary": "Twins + Dreadnaught",
+          "secondary": "150 Morkite",
+          "anomaly": null,
+          "warning": "Low Oxygen"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Morning Darkness",
-      "biome": "Glacial Strata",
-      "seed": 2775396360,
+      "name": "Naked Burrow",
+      "biome": "Salt Pits",
+      "seed": 797585550,
       "stages": [
         {
           "id": 1,
-          "primary": "225 Morkite",
-          "secondary": "2 Mini-Mules",
-          "warning": "Elite Threat"
+          "primary": "200 Morkite",
+          "secondary": "Black Box",
+          "anomaly": "Volatile Guts",
+          "warning": "Exploder Infestation"
         },
         {
           "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "2 Eggs",
-          "warning": "Low Oxygen"
+          "primary": " 3 Mini-Mules",
+          "secondary": "150 Morkite",
+          "anomaly": null,
+          "warning": "Elite Threat"
         },
         {
           "id": 3,
-          "primary": "10 Aquarqs",
-          "secondary": "150 Morkite",
-          "warning": "Shield Disruption"
+          "primary": " 225 Morkite",
+          "secondary": "Dreadnaught",
+          "anomaly": null,
+          "warning": "Swarmageddon"
         }
       ]
     }
