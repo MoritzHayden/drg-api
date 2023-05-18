@@ -16,7 +16,7 @@ DRG API is a free API which returns Deep Rock Galactic information and resources
 
 View the source code on [GitHub]({GITHUB_ROOT_URL}).
 """
-API_VERSION: str = "1.0.0"
+API_VERSION: str = "1.0.1"
 API_LICENSE_NAME: str = "MIT License"
 
 
