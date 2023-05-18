@@ -1,62 +1,62 @@
 {
-  "startTime": "2023-05-11T11:00:00Z",
-  "endTime": "2023-05-18T11:00:00Z",
+  "startTime": "2023-05-18T11:00:00Z",
+  "endTime": "2023-05-25T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Corroded Reserve",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 259722398,
+      "name": "Gunner's Fury",
+      "biome": "Glacial Strata",
+      "seed": 3397705949,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "2 Eggs",
-          "anomaly": "Low Gravity",
-          "warning": null
+          "primary": "4 Eggs",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
-          "primary": "2 Mini-Mules",
-          "secondary": "Dreadnought",
+          "primary": "Escort Duty",
+          "secondary": "2 Mini-Mules",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "Twins + Dreadnought",
-          "secondary": "150 Morkite",
+          "primary": "225 Morkite",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Naked Burrow",
-      "biome": "Salt Pits",
-      "seed": 797585550,
+      "name": "First Derail",
+      "biome": "Dense Biozone",
+      "seed": 3741469697,
       "stages": [
         {
           "id": 1,
-          "primary": "200 Morkite",
-          "secondary": "Black Box",
-          "anomaly": "Volatile Guts",
-          "warning": "Exploder Infestation"
+          "primary": "On-Site Refinery",
+          "secondary": "2 Eggs",
+          "anomaly": null,
+          "warning": "Lethal Enemies"
         },
         {
           "id": 2,
-          "primary": "3 Mini-Mules",
-          "secondary": "150 Morkite",
+          "primary": "2 Mini-Mules",
+          "secondary": "Twins",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "225 Morkite",
-          "secondary": "Dreadnought",
+          "primary": "Escort Duty",
+          "secondary": "150 Morkite",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Elite Threat"
         }
       ]
     }
