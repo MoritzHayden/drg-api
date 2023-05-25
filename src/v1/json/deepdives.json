@@ -1,31 +1,31 @@
 {
-  "startTime": "2023-05-18T11:00:00Z",
-  "endTime": "2023-05-25T11:00:00Z",
+  "startTime": "2023-05-25T11:00:00Z",
+  "endTime": "2023-06-01T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Gunner's Fury",
-      "biome": "Glacial Strata",
-      "seed": 3397705949,
+      "name": "Stony Crib",
+      "biome": "Crystalline Caverns",
+      "seed": 3364030012,
       "stages": [
         {
           "id": 1,
-          "primary": "4 Eggs",
-          "secondary": "Black Box",
+          "primary": "Dreadnought + Hiveguard",
+          "secondary": "2 Mini-Mules",
           "anomaly": null,
-          "warning": "Cave Leech Cluster"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "2 Mini-Mules",
+          "primary": "4 Eggs",
+          "secondary": "Twins",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Haunted Cave"
         },
         {
           "id": 3,
-          "primary": "225 Morkite",
-          "secondary": "Black Box",
+          "primary": "200 Morkite",
+          "secondary": "2 Mini-Mules",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "First Derail",
-      "biome": "Dense Biozone",
-      "seed": 3741469697,
+      "name": "Dry Drop",
+      "biome": "Sandblasted Corridors",
+      "seed": 350129608,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refinery",
-          "secondary": "2 Eggs",
+          "primary": "3 Mini-Mules",
+          "secondary": "150 Morkite",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "2 Mini-Mules",
-          "secondary": "Twins",
+          "primary": "Hiveguard + Twins",
+          "secondary": "2 Mini-Mules",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Elite Threat"
         },
         {
           "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "150 Morkite",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "primary": "10 Aquarqs",
+          "secondary": "Twins",
+          "anomaly": "Volatile Guts",
+          "warning": "Regenerative Bugs"
         }
       ]
     }
