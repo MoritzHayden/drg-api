@@ -1,31 +1,31 @@
 {
-  "startTime": "2023-05-25T11:00:00Z",
-  "endTime": "2023-06-01T11:00:00Z",
+  "startTime": "2023-06-01T11:00:00Z",
+  "endTime": "2023-06-08T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Stony Crib",
-      "biome": "Crystalline Caverns",
-      "seed": 3364030012,
+      "name": "Burning Hook",
+      "biome": "Salt Pits",
+      "seed": 3647349665,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought + Hiveguard",
-          "secondary": "2 Mini-Mules",
+          "primary": "6 Eggs",
+          "secondary": "150 Morkite",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "4 Eggs",
-          "secondary": "Twins",
+          "primary": "7 Aquarqs",
+          "secondary": "2 Eggs",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": "Lethal Enemies"
         },
         {
           "id": 3,
-          "primary": "200 Morkite",
-          "secondary": "2 Mini-Mules",
+          "primary": "4 Eggs",
+          "secondary": "Dreadnought",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Dry Drop",
-      "biome": "Sandblasted Corridors",
-      "seed": 350129608,
+      "name": "Blue Thunder",
+      "biome": "Fungus Bogs",
+      "seed": 4174016539,
       "stages": [
         {
           "id": 1,
-          "primary": "3 Mini-Mules",
-          "secondary": "150 Morkite",
+          "primary": "10 Aquarqs",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Hiveguard + Twins",
+          "primary": "Escort Duty",
           "secondary": "2 Mini-Mules",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "anomaly": "Critical Weakness",
+          "warning": "Swarmageddon"
         },
         {
           "id": 3,
-          "primary": "10 Aquarqs",
-          "secondary": "Twins",
-          "anomaly": "Volatile Guts",
-          "warning": "Regenerative Bugs"
+          "primary": "200 Morkite",
+          "secondary": "2 Mini-Mules",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         }
       ]
     }
