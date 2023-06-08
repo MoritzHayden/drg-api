@@ -1,62 +1,62 @@
 {
-  "startTime": "2023-06-01T11:00:00Z",
-  "endTime": "2023-06-08T11:00:00Z",
+  "startTime": "2023-06-08T11:00:00Z",
+  "endTime": "2023-06-15T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Burning Hook",
-      "biome": "Salt Pits",
-      "seed": 3647349665,
+      "name": "Deep Needle",
+      "biome": "Glacial Strata",
+      "seed": 1444947800,
       "stages": [
         {
           "id": 1,
-          "primary": "6 Eggs",
-          "secondary": "150 Morkite",
+          "primary": "2 Mini-Mules",
+          "secondary": "2 Eggs",
           "anomaly": null,
           "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "7 Aquarqs",
-          "secondary": "2 Eggs",
+          "primary": "On-Site Refinery",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "4 Eggs",
-          "secondary": "Dreadnought",
-          "anomaly": null,
+          "primary": "6 Eggs",
+          "secondary": "150 Morkite",
+          "anomaly": "Low Gravity",
           "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Blue Thunder",
-      "biome": "Fungus Bogs",
-      "seed": 4174016539,
+      "name": "Open Ceiling",
+      "biome": "Azure Weald",
+      "seed": 496871088,
       "stages": [
         {
           "id": 1,
-          "primary": "10 Aquarqs",
+          "primary": "250 Morkite",
           "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Mactera Plague"
         },
         {
           "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "2 Mini-Mules",
+          "primary": "2 Mini-Mules",
+          "secondary": "Hiveguard",
           "anomaly": "Critical Weakness",
-          "warning": "Swarmageddon"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "200 Morkite",
-          "secondary": "2 Mini-Mules",
+          "primary": "6 Eggs",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": null
         }
       ]
     }
