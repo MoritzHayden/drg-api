@@ -1,60 +1,60 @@
 {
-  "startTime": "2023-06-08T11:00:00Z",
-  "endTime": "2023-06-15T11:00:00Z",
+  "startTime": "2023-06-15T11:00:00Z",
+  "endTime": "2023-06-22T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Deep Needle",
-      "biome": "Glacial Strata",
-      "seed": 1444947800,
+      "name": "Spineless Let-down",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 1871665548,
       "stages": [
         {
           "id": 1,
-          "primary": "2 Mini-Mules",
+          "primary": "3 Mini-Mules",
           "secondary": "2 Eggs",
           "anomaly": null,
           "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "On-Site Refinery",
-          "secondary": "Black Box",
+          "primary": "250 Morkite",
+          "secondary": "2 Mini-Mules",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Shield Disruption"
         },
         {
           "id": 3,
-          "primary": "6 Eggs",
-          "secondary": "150 Morkite",
-          "anomaly": "Low Gravity",
+          "primary": "4 Eggs",
+          "secondary": "2 Mini-Mules",
+          "anomaly": "Critical Weakness",
           "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Open Ceiling",
-      "biome": "Azure Weald",
-      "seed": 496871088,
+      "name": "Gunner's Foot",
+      "biome": "Crystalline Caverns",
+      "seed": 2,
       "stages": [
         {
           "id": 1,
-          "primary": "250 Morkite",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Mactera Plague"
+          "primary": "6 Eggs",
+          "secondary": "Twins",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Rival Presence"
         },
         {
           "id": 2,
           "primary": "2 Mini-Mules",
-          "secondary": "Hiveguard",
-          "anomaly": "Critical Weakness",
-          "warning": "Cave Leech Cluster"
+          "secondary": "2 Eggs",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 3,
-          "primary": "6 Eggs",
-          "secondary": "Black Box",
+          "primary": "Escort Duty",
+          "secondary": "2 Mini-Mules",
           "anomaly": null,
           "warning": null
         }
