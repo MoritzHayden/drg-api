@@ -1,18 +1,47 @@
 {
-  "startTime": "2023-06-15T11:00:00Z",
-  "endTime": "2023-06-22T11:00:00Z",
+  "startTime": "2023-06-22T11:00:00Z",
+  "endTime": "2023-06-29T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Spineless Let-down",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 1871665548,
+      "name": "Impure View",
+      "biome": "Dense Biozone",
+      "seed": 1810783815,
       "stages": [
         {
           "id": 1,
-          "primary": "3 Mini-Mules",
-          "secondary": "2 Eggs",
+          "primary": "6 Eggs",
+          "secondary": "Black Box",
           "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 2,
+          "primary": "7 Aquarqs",
+          "secondary": "150 Morkite",
+          "anomaly": null,
+          "warning": "Haunted Cave"
+        },
+        {
+          "id": 3,
+          "primary": "4 Eggs",
+          "secondary": "150 Morkite",
+          "anomaly": null,
+          "warning": "Lethal Enemies"
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Rapid Gate",
+      "biome": "Crystalline Caverns",
+      "seed": 3514251816,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "4 Eggs",
+          "secondary": "150 Morkite",
+          "anomaly": "Low Gravity",
           "warning": "Regenerative Bugs"
         },
         {
@@ -24,37 +53,8 @@
         },
         {
           "id": 3,
-          "primary": "4 Eggs",
-          "secondary": "2 Mini-Mules",
-          "anomaly": "Critical Weakness",
-          "warning": null
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Gunner's Foot",
-      "biome": "Crystalline Caverns",
-      "seed": 2,
-      "stages": [
-        {
-          "id": 1,
           "primary": "6 Eggs",
-          "secondary": "Twins",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Rival Presence"
-        },
-        {
-          "id": 2,
-          "primary": "2 Mini-Mules",
-          "secondary": "2 Eggs",
-          "anomaly": null,
-          "warning": "Regenerative Bugs"
-        },
-        {
-          "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "2 Mini-Mules",
+          "secondary": "150 Morkite",
           "anomaly": null,
           "warning": null
         }
