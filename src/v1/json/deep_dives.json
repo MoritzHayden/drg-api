@@ -10,22 +10,22 @@
       "stages": [
         {
           "id": 1,
-          "primary": "6 Eggs",
+          "primary": "Egg x6",
           "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "7 Aquarqs",
-          "secondary": "150 Morkite",
+          "id": 1,
+          "primary": "Aquarq x7",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": "Haunted Cave"
         },
         {
-          "id": 3,
-          "primary": "4 Eggs",
-          "secondary": "150 Morkite",
+          "id": 1,
+          "primary": "Egg x4",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": "Lethal Enemies"
         }
@@ -39,22 +39,22 @@
       "stages": [
         {
           "id": 1,
-          "primary": "4 Eggs",
-          "secondary": "150 Morkite",
+          "primary": "Egg x4",
+          "secondary": "Morkite x150",
           "anomaly": "Low Gravity",
           "warning": "Regenerative Bugs"
         },
         {
-          "id": 2,
-          "primary": "250 Morkite",
-          "secondary": "2 Mini-Mules",
+          "id": 1,
+          "primary": "Morkite x250",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": "Shield Disruption"
         },
         {
-          "id": 3,
-          "primary": "6 Eggs",
-          "secondary": "150 Morkite",
+          "id": 1,
+          "primary": "Egg x6",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         }
