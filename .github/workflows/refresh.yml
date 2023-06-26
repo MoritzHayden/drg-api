@@ -1,0 +1,36 @@
+name: Refresh
+
+on:
+  schedule:
+    - cron: '15 11 * * 4'
+
+jobs:
+  refresh:
+    name: Refresh
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Refresh Deep Dives (V1)
+        run: ./src/scripts/refresh.sh
+
+      - name: Commit Deep Dives (V1)
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: main
+          commit_message: "ci: refresh current deep dives"
+          file_pattern: src/v1/json/deep_dives.json
