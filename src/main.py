@@ -17,7 +17,7 @@ from core.util.constants import (
     URL,
     EMAIL
 )
-import v1.api as v1
+from v1.api import router as v1_router
 
 
 # Initialize FastAPI
@@ -38,7 +38,7 @@ api = FastAPI(
 
 
 # Add Routers
-api.include_router(v1.router)
+api.include_router(v1_router)
 
 
 # Swagger UI HTML
