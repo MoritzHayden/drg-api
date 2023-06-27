@@ -17,7 +17,7 @@ echo "Running install script..."
 
 # Run refresh script
 echo "Running refresh script..."
-pipenv run python v1/util/refresh_deep_dives.py || exit
+pipenv run python refresh.py || exit
 
 # Print done message
 echo "Refresh completed successfully!"

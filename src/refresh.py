@@ -4,10 +4,9 @@ import json
 
 from datetime import datetime, timedelta
 from typing import Optional
-# TODO: Why are these imports not working?
-from ...core.util.constants import DEEP_DIVE_METADATA_URL, DEEP_DIVE_INFORMATION_URL
-from ...core.util.custom_json_encoder import CustomJSONEncoder
-from ..model.deep_dives import (
+from core.util.constants import DEEP_DIVE_METADATA_URL, DEEP_DIVE_INFORMATION_URL
+from core.util.json_encoder import JSONEncoder
+from v1.model.deep_dives import (
     Anomaly,
     Biome,
     Type,
@@ -118,21 +117,21 @@ def map_warning(warning: str) -> Optional[Warning]:
 
 
 def save_json(schema: DeepDives):
-    with open("../json/deep_dives.json", "w") as file:
-        file.write(json.dumps(schema.dict(), cls=CustomJSONEncoder, indent=2))
+    with open("v1/json/deep_dives.json", "w") as file:
+        file.write(json.dumps(schema.dict(), cls=JSONEncoder, indent=2))
 
 
-def refresh_deep_dives():
+def refresh():
     # Fetch the deep dive metadata and information
     metadata = get_deep_dive_metadata()
     information = get_deep_dive_information()
 
-    # Aggregate the data
+    # Aggregate the deep dive data
     deep_dives = construct_deep_dives(metadata, information)
 
-    # Save the data to a JSON file
+    # Save the deep dive data to a JSON file
     save_json(deep_dives)
 
 
 if __name__ == "__main__":
-    refresh_deep_dives()
+    refresh()
