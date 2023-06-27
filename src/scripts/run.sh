@@ -13,7 +13,7 @@ print_help() {
     echo "Options:"
     echo "-h        show brief help"
     echo "-d        run in development mode"
-    echo "-i        intall dependencies"
+    echo "-i        install dependencies"
     exit 0
 }
 

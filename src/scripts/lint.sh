@@ -11,7 +11,7 @@ print_help() {
     echo " "
     echo "Options:"
     echo "-h        show brief help"
-    echo "-i        intall dependencies"
+    echo "-i        install dependencies"
     exit 0
 }
 

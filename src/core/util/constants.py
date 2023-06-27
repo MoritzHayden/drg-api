@@ -20,8 +20,14 @@ API_VERSION: str = "1.0.1"
 API_LICENSE_NAME: str = "MIT License"
 
 
+# Deep Dives
+DEEP_DIVE_METADATA_URL: str = "https://drg.ghostship.dk/events/deepdive"
+DEEP_DIVE_INFORMATION_URL: str = "https://docs.google.com/feeds/download/spreadsheets/Export?key" \
+                                 "=1cvRHDfmBKK8Ggmoga6A3PrlyBaunZpbQhZuy987gGKk&exportFormat=csv&gid=672452639"
+
+
 # Paths
-V1_DEEPDIVES_PATH: str = "v1/json/deepdives.json"
+V1_DEEPDIVES_PATH: str = "v1/json/deep_dives.json"
 V1_SALUTES_PATH: str = "v1/json/salutes.json"
 V1_TRIVIA_PATH: str = "v1/json/trivia.json"
 FAVICON_PATH: str = "core/img/favicon.ico"

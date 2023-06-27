@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from core.util.constants import V1_DEEPDIVES_PATH, V1_SALUTES_PATH, V1_TRIVIA_PATH
-from .model.deepdives import DeepDives
+from .model.deep_dives import DeepDives
 from .model.salutes import Salutes
 from .model.trivia import Trivia
 
@@ -10,7 +10,6 @@ router = APIRouter(
     prefix="/v1",
     tags=["v1"],
 )
-
 
 # Deep Dives
 @router.get(path="/deepdives", name="Deep Dives", response_model=DeepDives, status_code=200)
