@@ -3,12 +3,12 @@ from .model.deep_dives import DeepDives
 from .model.salutes import Salutes
 from .model.trivia import Trivia
 
+
 # Initialize Routers
 router = APIRouter(
     prefix="/v1",
     tags=["v1"],
 )
-
 
 # Deep Dives
 @router.get(path="/deepdives", name="Deep Dives", response_model=DeepDives, status_code=200)
