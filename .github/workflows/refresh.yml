@@ -25,12 +25,12 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Refresh Deep Dives (V1)
+      - name: Refresh Data
         run: ./src/scripts/refresh.sh
 
-      - name: Commit Deep Dives (V1)
+      - name: Commit Refreshed Data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: main
-          commit_message: "ci: refresh current deep dives"
+          commit_message: "ci: refresh current data"
           file_pattern: src/v1/json/deep_dives.json
