@@ -50,12 +50,12 @@ def construct_deep_dives(metadata: dict, information: str) -> DeepDives:
                               secondary=data[9][2],
                               anomaly=map_anomaly(data[10][3]),
                               warning=map_warning(data[10][2]))
-    dd_stage_2: Stage = Stage(id=1,
+    dd_stage_2: Stage = Stage(id=2,
                               primary=data[12][2],
                               secondary=data[13][2],
                               anomaly=map_anomaly(data[14][3]),
                               warning=map_warning(data[14][2]))
-    dd_stage_3: Stage = Stage(id=1,
+    dd_stage_3: Stage = Stage(id=3,
                               primary=data[16][2],
                               secondary=data[17][2],
                               anomaly=map_anomaly(data[18][3]),
@@ -76,12 +76,12 @@ def construct_deep_dives(metadata: dict, information: str) -> DeepDives:
                                secondary=data[9][7],
                                anomaly=map_anomaly(data[10][8]),
                                warning=map_warning(data[10][7]))
-    edd_stage_2: Stage = Stage(id=1,
+    edd_stage_2: Stage = Stage(id=2,
                                primary=data[12][7],
                                secondary=data[13][7],
                                anomaly=map_anomaly(data[14][8]),
                                warning=map_warning(data[14][7]))
-    edd_stage_3: Stage = Stage(id=1,
+    edd_stage_3: Stage = Stage(id=3,
                                primary=data[16][7],
                                secondary=data[17][7],
                                anomaly=map_anomaly(data[18][8]),
