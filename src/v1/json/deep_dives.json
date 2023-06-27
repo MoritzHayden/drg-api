@@ -16,14 +16,14 @@
           "warning": null
         },
         {
-          "id": 1,
+          "id": 2,
           "primary": "Aquarq x7",
           "secondary": "Morkite x150",
           "anomaly": null,
           "warning": "Haunted Cave"
         },
         {
-          "id": 1,
+          "id": 3,
           "primary": "Egg x4",
           "secondary": "Morkite x150",
           "anomaly": null,
@@ -45,14 +45,14 @@
           "warning": "Regenerative Bugs"
         },
         {
-          "id": 1,
+          "id": 2,
           "primary": "Morkite x250",
           "secondary": "Mule x2",
           "anomaly": null,
           "warning": "Shield Disruption"
         },
         {
-          "id": 1,
+          "id": 3,
           "primary": "Egg x6",
           "secondary": "Morkite x150",
           "anomaly": null,
