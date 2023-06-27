@@ -4,7 +4,7 @@ import json
 
 from datetime import datetime, timedelta
 from typing import Optional
-from core.util.constants import DEEP_DIVE_METADATA_URL, DEEP_DIVE_INFORMATION_URL
+from core.util.constants import DEEP_DIVE_METADATA_URL, DEEP_DIVE_INFORMATION_URL, V1_DEEPDIVES_PATH
 from core.util.json_encoder import JSONEncoder
 from v1.model.deep_dives import (
     Anomaly,
@@ -117,7 +117,7 @@ def map_warning(warning: str) -> Optional[Warning]:
 
 
 def save_json(schema: DeepDives):
-    with open("v1/json/deep_dives.json", "w") as file:
+    with open(V1_DEEPDIVES_PATH, "w") as file:
         file.write(json.dumps(schema.dict(), cls=JSONEncoder, indent=2))
 
 

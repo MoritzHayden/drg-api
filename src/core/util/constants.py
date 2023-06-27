@@ -27,6 +27,9 @@ DEEP_DIVE_INFORMATION_URL: str = "https://docs.google.com/feeds/download/spreads
 
 
 # Paths
+V1_DEEPDIVES_PATH: str = "v1/json/deep_dives.json"
+V1_SALUTES_PATH: str = "v1/json/salutes.json"
+V1_TRIVIA_PATH: str = "v1/json/trivia.json"
 FAVICON_PATH: str = "core/img/favicon.ico"
 FAVICON_URL: str = "/favicon.ico"
 OPEN_API_URL: str = "/openapi.json"
