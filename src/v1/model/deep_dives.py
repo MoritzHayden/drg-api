@@ -66,7 +66,7 @@ class Stage(BaseModel):
     id: int = Field(description="The sequencing index for the stage.",
                     example=1)
     primary: str = Field(description="The primary objective for the stage.",
-                         example="7 Aquarqs")
+                         example="Morkite x150")
     secondary: str = Field(description="The secondary objective for the stage.",
                            example="Black Box")
     anomaly: Optional[Anomaly] = Field(default=None,
