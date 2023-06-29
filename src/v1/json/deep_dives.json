@@ -17,15 +17,15 @@
         },
         {
           "id": 2,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Egg x6",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Swarmageddon"
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Mule x3 + Uplink",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         }
