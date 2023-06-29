@@ -46,18 +46,18 @@ def construct_deep_dives(metadata: dict, information: str) -> DeepDives:
     dd_biome: Biome = map_biome(data[6][2])
     dd_type: Type = Type.DEEP_DIVE
     dd_stage_1: Stage = Stage(id=1,
-                              primary=data[8][2],
-                              secondary=data[9][2],
+                              primary=format_objective(data[8][2]),
+                              secondary=format_objective(data[9][2]),
                               anomaly=map_anomaly(data[10][3]),
                               warning=map_warning(data[10][2]))
     dd_stage_2: Stage = Stage(id=2,
-                              primary=data[12][2],
-                              secondary=data[13][2],
+                              primary=format_objective(data[12][2]),
+                              secondary=format_objective(data[13][2]),
                               anomaly=map_anomaly(data[14][3]),
                               warning=map_warning(data[14][2]))
     dd_stage_3: Stage = Stage(id=3,
-                              primary=data[16][2],
-                              secondary=data[17][2],
+                              primary=format_objective(data[16][2]),
+                              secondary=format_objective(data[17][2]),
                               anomaly=map_anomaly(data[18][3]),
                               warning=map_warning(data[18][2]))
     dd_variant: Variant = Variant(type=dd_type,
@@ -72,18 +72,18 @@ def construct_deep_dives(metadata: dict, information: str) -> DeepDives:
     edd_biome: Biome = map_biome(data[6][7])
     edd_type: Type = Type.ELITE_DEEP_DIVE
     edd_stage_1: Stage = Stage(id=1,
-                               primary=data[8][7],
-                               secondary=data[9][7],
+                               primary=format_objective(data[8][7]),
+                               secondary=format_objective(data[9][7]),
                                anomaly=map_anomaly(data[10][8]),
                                warning=map_warning(data[10][7]))
     edd_stage_2: Stage = Stage(id=2,
-                               primary=data[12][7],
-                               secondary=data[13][7],
+                               primary=format_objective(data[12][7]),
+                               secondary=format_objective(data[13][7]),
                                anomaly=map_anomaly(data[14][8]),
                                warning=map_warning(data[14][7]))
     edd_stage_3: Stage = Stage(id=3,
-                               primary=data[16][7],
-                               secondary=data[17][7],
+                               primary=format_objective(data[16][7]),
+                               secondary=format_objective(data[17][7]),
                                anomaly=map_anomaly(data[18][8]),
                                warning=map_warning(data[18][7]))
     edd_variant: Variant = Variant(type=edd_type,
@@ -93,6 +93,10 @@ def construct_deep_dives(metadata: dict, information: str) -> DeepDives:
                                    stages=[edd_stage_1, edd_stage_2, edd_stage_3])
 
     return DeepDives(startTime=start_time, endTime=end_time, variants=[dd_variant, edd_variant])
+
+
+def format_objective(objective: str) -> str:
+    return objective.replace(" + Uplink", "")
 
 
 def map_biome(biome: str) -> Optional[Biome]:
