@@ -1,62 +1,62 @@
 {
-  "startTime": "2023-06-29T11:00:00Z",
-  "endTime": "2023-07-06T11:00:00Z",
+  "startTime": "2023-07-06T11:00:00Z",
+  "endTime": "2023-07-13T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Murky Feast",
-      "biome": "Azure Weald",
-      "seed": 1699697359,
+      "name": "High Contact",
+      "biome": "Glacial Strata",
+      "seed": 3116029769,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Low Oxygen"
-        },
-        {
-          "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Swarmageddon"
-        },
-        {
-          "id": 3,
-          "primary": "Mule x3",
+          "primary": "On-Site Refining",
           "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x200",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
+        },
+        {
+          "id": 3,
+          "primary": "Industrial Sabotage",
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Leaf Lover's Fangs",
-      "biome": "Crystalline Caverns",
-      "seed": 2216806707,
+      "name": "Uncovered Arm",
+      "biome": "Magma Core",
+      "seed": 1688014532,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Mule x2",
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 2,
+          "primary": "Aquarq x10",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": "Shield Disruption"
         },
         {
-          "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Cave Leech Cluster"
-        },
-        {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
+          "primary": "Mule x3",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": "Mactera Plague"
         }
       ]
     }
