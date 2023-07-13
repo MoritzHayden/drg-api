@@ -24,10 +24,10 @@
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Aquarq x7",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Lethal Enemies"
         }
       ]
     },
