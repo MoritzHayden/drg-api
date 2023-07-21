@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.openapi.docs import get_swagger_ui_html
 from core.util.constants import (
@@ -34,6 +35,15 @@ api = FastAPI(
         NAME: API_LICENSE_NAME,
         URL: GITHUB_LICENSE_URL,
     }
+)
+
+origins = ["*"]
+
+api.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["GET"],
 )
 
 
