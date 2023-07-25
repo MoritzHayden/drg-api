@@ -37,15 +37,13 @@ api = FastAPI(
     }
 )
 
-origins = ["*"]
-
+# Add middleware
 api.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["GET"],
 )
-
 
 # Add Routers
 api.include_router(v1_router)
