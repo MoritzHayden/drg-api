@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.openapi.docs import get_swagger_ui_html
 from core.util.constants import (
@@ -36,6 +37,13 @@ api = FastAPI(
     }
 )
 
+# Add middleware
+api.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["GET"],
+)
 
 # Add Routers
 api.include_router(v1_router)
