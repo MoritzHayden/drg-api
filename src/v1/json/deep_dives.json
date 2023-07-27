@@ -1,31 +1,31 @@
 {
-  "startTime": "2023-07-20T11:00:00Z",
-  "endTime": "2023-07-27T11:00:00Z",
+  "startTime": "2023-07-27T11:00:00Z",
+  "endTime": "2023-08-03T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Colossal Dome",
-      "biome": "Sandblasted Corridors",
-      "seed": 2360680583,
+      "name": "Scout's Abyss",
+      "biome": "Dense Biozone",
+      "seed": 2316843391,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
+          "primary": "Mule x3",
           "secondary": "Egg x2",
           "anomaly": null,
           "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "Morkite x250",
-          "secondary": "Mule x2",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (H+D)",
-          "secondary": "Egg x2",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Madmen's Womb",
+      "name": "Forbidden Fangs",
       "biome": "Magma Core",
-      "seed": 1921164104,
+      "seed": 1795456789,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Mule x2",
+          "primary": "Dreadnought x2 (D+T)",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Low Oxygen"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Morkite x150",
+          "primary": "Mule x3",
+          "secondary": "Egg x2",
           "anomaly": null,
           "warning": "Regenerative Bugs"
         },
         {
           "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Lethal Enemies"
+          "primary": "Unknown",
+          "secondary": "Unknown",
+          "anomaly": null,
+          "warning": null
         }
       ]
     }
