@@ -17,17 +17,17 @@
         },
         {
           "id": 2,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Egg x6",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Elite Threat"
         }
       ]
     },
@@ -53,10 +53,10 @@
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Dreadnought x2 (D+T)",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Swarmageddon"
         }
       ]
     }
