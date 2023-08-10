@@ -1,62 +1,62 @@
 {
-  "startTime": "2023-08-03T11:00:00Z",
-  "endTime": "2023-08-10T11:00:00Z",
+  "startTime": "2023-08-10T11:00:00Z",
+  "endTime": "2023-08-17T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Weeping Jewel",
-      "biome": "Crystalline Caverns",
-      "seed": 1804445585,
+      "name": "Abandoned View",
+      "biome": "Azure Weald",
+      "seed": 155594200,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Morkite x200",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Low Oxygen"
+        },
+        {
+          "id": 2,
+          "primary": "Aquarq x7",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": null,
-          "warning": "Rival Presence"
-        },
-        {
           "id": 3,
-          "primary": "Morkite x250",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Morkite x150",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Shield Disruption"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Titanic Prize",
-      "biome": "Hollow Bough",
-      "seed": 1668296220,
+      "name": "Purified Trench",
+      "biome": "Sandblasted Corridors",
+      "seed": 614097297,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
-          "anomaly": "Volatile Guts",
-          "warning": "Elite Threat"
+          "primary": "Industrial Sabotage",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
+          "primary": "Morkite x225",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": "Exploder Infestation"
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Black Box",
+          "primary": "Mule x3",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Cave Leech Cluster"
+          "warning": "Rival Presence"
         }
       ]
     }
