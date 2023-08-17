@@ -1,62 +1,62 @@
 {
-  "startTime": "2023-08-10T11:00:00Z",
-  "endTime": "2023-08-17T11:00:00Z",
+  "startTime": "2023-08-17T11:00:00Z",
+  "endTime": "2023-08-24T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Abandoned View",
+      "name": "Bloody Walk",
       "biome": "Azure Weald",
-      "seed": 155594200,
+      "seed": 2561610992,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
+          "primary": "Dreadnought x2 (H+D)",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Black Box",
+          "primary": "Mule x3",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Morkite x150",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Shield Disruption"
+          "primary": "Unknown",
+          "secondary": "Unknown",
+          "anomaly": null,
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Purified Trench",
-      "biome": "Sandblasted Corridors",
-      "seed": 614097297,
+      "name": "Devil's Shaft",
+      "biome": "Hollow Bough",
+      "seed": 3462517043,
       "stages": [
         {
           "id": 1,
-          "primary": "Industrial Sabotage",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Shield Disruption"
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "Morkite x225",
-          "secondary": "Black Box",
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Morkite x150",
+          "primary": "Dreadnought x2 (D+T)",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": "Exploder Infestation"
         }
       ]
     }
