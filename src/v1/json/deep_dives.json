@@ -24,10 +24,10 @@
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Rival Presence"
         }
       ]
     },
