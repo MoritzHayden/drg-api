@@ -1,24 +1,24 @@
 {
-  "startTime": "2023-08-17T11:00:00Z",
-  "endTime": "2023-08-24T11:00:00Z",
+  "startTime": "2023-08-24T11:00:00Z",
+  "endTime": "2023-08-31T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Bloody Walk",
-      "biome": "Azure Weald",
-      "seed": 2561610992,
+      "name": "Engineer's Void",
+      "biome": "Hollow Bough",
+      "seed": 3686846218,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (H+D)",
-          "secondary": "Mule x2",
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Exploder Infestation"
         },
         {
           "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Morkite x150",
+          "primary": "Morkite x250",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": null
         },
@@ -27,35 +27,35 @@
           "primary": "Dreadnought x2 (T+H)",
           "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": "Low Oxygen"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Devil's Shaft",
-      "biome": "Hollow Bough",
-      "seed": 3462517043,
+      "name": "Everlasting Dawn",
+      "biome": "Sandblasted Corridors",
+      "seed": 158977185,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Swarmageddon"
-        },
-        {
-          "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 3,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Black Box",
+          "id": 2,
+          "primary": "Aquarq x10",
+          "secondary": "Morkite x150",
           "anomaly": null,
+          "warning": "Swarmageddon"
+        },
+        {
+          "id": 3,
+          "primary": "Egg x6",
+          "secondary": "Mule x2",
+          "anomaly": "Critical Weakness",
           "warning": "Exploder Infestation"
         }
       ]
