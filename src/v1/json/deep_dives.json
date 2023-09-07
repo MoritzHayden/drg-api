@@ -17,17 +17,17 @@
         },
         {
           "id": 2,
-          "primary": "Unknown",
-          "secondary": "Unknown",
-          "anomaly": null,
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": "Volatile Guts",
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Morkite x250",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": null
+          "warning": "Haunted Cave"
         }
       ]
     },
@@ -53,8 +53,8 @@
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Morkite x200",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": null
         }
