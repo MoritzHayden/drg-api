@@ -1,60 +1,60 @@
 {
-  "startTime": "2023-09-14T11:00:00Z",
-  "endTime": "2023-09-21T11:00:00Z",
+  "startTime": "2023-09-21T11:00:00Z",
+  "endTime": "2023-09-28T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Corrosive Hell",
-      "biome": "Azure Weald",
-      "seed": 980420859,
+      "name": "Barbarous Perfection",
+      "biome": "Dense Biozone",
+      "seed": 2169518970,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Morkite x150",
+          "primary": "Industrial Sabotage",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": "Volatile Guts",
+          "warning": null
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x250",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": "Exploder Infestation"
         },
         {
-          "id": 2,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": null
-        },
-        {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
+          "primary": "Dreadnought x2 (D+H)",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Elite Threat"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Second Let-Down",
-      "biome": "Hollow Bough",
-      "seed": 111861968,
+      "name": "Duplicitous Point",
+      "biome": "Crystalline Caverns",
+      "seed": 2640951767,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x7",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": null,
-          "warning": "Mactera Plague"
-        },
-        {
-          "id": 2,
-          "primary": "On-Site Refining",
+          "primary": "Morkite x250",
           "secondary": "Black Box",
-          "anomaly": "Critical Weakness",
+          "anomaly": "Volatile Guts",
           "warning": null
         },
         {
-          "id": 3,
-          "primary": "Egg x6",
+          "id": 2,
+          "primary": "Egg x4",
           "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
+        },
+        {
+          "id": 3,
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
           "warning": "Cave Leech Cluster"
         }
