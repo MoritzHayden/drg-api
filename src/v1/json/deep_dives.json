@@ -40,23 +40,23 @@
         {
           "id": 1,
           "primary": "Mule x3",
-          "secondary": "Dreadnought x1",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": "Mactera Plague"
         },
         {
           "id": 2,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Morkite x225",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Shield Disruption"
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Swarmageddon"
         }
       ]
     }
