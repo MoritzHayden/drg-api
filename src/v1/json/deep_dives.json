@@ -1,12 +1,12 @@
 {
-  "startTime": "2023-10-26T11:00:00Z",
-  "endTime": "2023-11-02T11:00:00Z",
+  "startTime": "2023-11-02T11:00:00Z",
+  "endTime": "2023-11-09T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
       "name": "Dead Grave",
       "biome": "Magma Core",
-      "seed": 275540662,
+      "seed": 485857581,
       "stages": [
         {
           "id": 1,
@@ -35,7 +35,7 @@
       "type": "Elite Deep Dive",
       "name": "Empty Rage",
       "biome": "Sandblasted Corridors",
-      "seed": 103924212,
+      "seed": 1703447575,
       "stages": [
         {
           "id": 1,
