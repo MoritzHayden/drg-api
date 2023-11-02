@@ -4,59 +4,59 @@
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Dead Grave",
-      "biome": "Magma Core",
+      "name": "Blunt Ideal",
+      "biome": "Sandblasted Corridors",
       "seed": 485857581,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Egg x2",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Exploder Infestation"
+          "primary": "Dreadnought x2",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Dreadnought x2 (T+D)",
-          "secondary": "Mule x2",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Empty Rage",
-      "biome": "Sandblasted Corridors",
+      "name": "Useless Keep",
+      "biome": "Fungus Bogs",
       "seed": 1703447575,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x3",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "On-Site Refining",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "Morkite x225",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Shield Disruption"
+          "primary": "Egg x4",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": "Rich Atmosphere",
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Black Box",
+          "primary": "Dreadnought x2 (H+D)",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Haunted Cave"
         }
       ]
     }
