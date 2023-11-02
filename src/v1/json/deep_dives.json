@@ -10,22 +10,22 @@
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2",
+          "primary": "Dreadnought x2 (H+T)",
           "secondary": "Black Box",
           "anomaly": null,
           "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Escort Duty",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Parasites"
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Egg x4",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         }
