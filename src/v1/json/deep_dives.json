@@ -1,31 +1,31 @@
 {
-  "startTime": "2023-11-02T11:00:00Z",
-  "endTime": "2023-11-09T11:00:00Z",
+  "startTime": "2023-11-09T11:00:00Z",
+  "endTime": "2023-11-16T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Blunt Ideal",
-      "biome": "Sandblasted Corridors",
-      "seed": 485857581,
+      "name": "Infested Basin",
+      "biome": "Dense Biozone",
+      "seed": 152231775,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (H+T)",
+          "primary": "Morkite x200",
           "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "Morkite x150",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Black Box",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Useless Keep",
-      "biome": "Fungus Bogs",
-      "seed": 1703447575,
+      "name": "Leaf Lover's Trench",
+      "biome": "Glacial Strata",
+      "seed": 3853061145,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
+          "primary": "Egg x4",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Dreadnought x1 (D)",
-          "anomaly": "Rich Atmosphere",
+          "primary": "Aquarq x7",
+          "secondary": "Morkite x150",
+          "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (H+D)",
-          "secondary": "Morkite x150",
+          "primary": "Industrial Sabotage",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": "Elite Threat"
         }
       ]
     }
