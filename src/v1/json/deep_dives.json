@@ -17,15 +17,15 @@
         },
         {
           "id": 2,
-          "primary": "Unknown",
-          "secondary": "Unknown",
-          "anomaly": null,
-          "warning": null
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Parasites"
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Dreadnought x2 (D+T)",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         }
