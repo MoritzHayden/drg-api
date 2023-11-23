@@ -1,62 +1,62 @@
 {
-  "startTime": "2023-11-16T11:00:00Z",
-  "endTime": "2023-11-23T11:00:00Z",
+  "startTime": "2023-11-23T11:00:00Z",
+  "endTime": "2023-11-30T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Fragile Gap",
-      "biome": "Crystalline Caverns",
-      "seed": 2611464779,
+      "name": "Everlasting Border",
+      "biome": "Glacial Strata",
+      "seed": 929529782,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
-          "secondary": "Morkite x150",
+          "primary": "Morkite x250",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Shield Disruption"
+          "primary": "Escort Duty",
+          "secondary": "Morkite x150",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Lethal Enemies"
         },
         {
           "id": 3,
           "primary": "Egg x4",
-          "secondary": "Mule x2",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Exploder Infestation"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Hideous Pitfall",
-      "biome": "Sandblasted Corridors",
-      "seed": 4009583131,
+      "name": "Uncovered Split",
+      "biome": "Salt Pits",
+      "seed": 3742983854,
       "stages": [
         {
           "id": 1,
-          "primary": "Industrial Sabotage",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Regenerative Bugs"
+          "primary": "Dreadnought x2 (H+D)",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Haunted Cave"
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Mule x2",
+          "primary": "On-Site Refining",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Aquarq x7",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": null,
-          "warning": null
+          "primary": "Industrial Sabotage",
+          "secondary": "Morkite x150",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Mactera Plague"
         }
       ]
     }
