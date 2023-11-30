@@ -1,62 +1,62 @@
 {
-  "startTime": "2023-11-23T11:00:00Z",
-  "endTime": "2023-11-30T11:00:00Z",
+  "startTime": "2023-11-30T11:00:00Z",
+  "endTime": "2023-12-07T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Everlasting Border",
+      "name": "Fierce Sadness",
       "biome": "Glacial Strata",
-      "seed": 929529782,
+      "seed": 946363360,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": null
-        },
-        {
-          "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "Morkite x150",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Uncovered Split",
-      "biome": "Salt Pits",
-      "seed": 3742983854,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Dreadnought x2 (H+D)",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Haunted Cave"
-        },
-        {
-          "id": 2,
-          "primary": "On-Site Refining",
+          "primary": "Dreadnought x2 (T+H)",
           "secondary": "Morkite x150",
           "anomaly": null,
           "warning": "Cave Leech Cluster"
         },
         {
+          "id": 2,
+          "primary": "Morkite x225",
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": null
+        },
+        {
           "id": 3,
-          "primary": "Industrial Sabotage",
+          "primary": "Aquarq x7",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Elite Threat"
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Bleak Luck",
+      "biome": "Magma Core",
+      "seed": 4180526131,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Escort Duty",
           "secondary": "Morkite x150",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Mactera Plague"
+          "anomaly": null,
+          "warning": "Parasites"
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 3,
+          "primary": "Mule x3",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Elite Threat"
         }
       ]
     }
