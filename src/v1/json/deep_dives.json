@@ -18,16 +18,16 @@
         {
           "id": 2,
           "primary": "Mule x2",
-          "secondary": "Dreadnought x1",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "On-Site Refining",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Parasites"
         }
       ]
     },
