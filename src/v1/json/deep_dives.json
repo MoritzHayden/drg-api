@@ -1,59 +1,59 @@
 {
-  "startTime": "2023-12-07T11:00:00Z",
-  "endTime": "2023-12-14T11:00:00Z",
+  "startTime": "2023-12-14T11:00:00Z",
+  "endTime": "2023-12-21T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Murderous Bluff",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 863478476,
+      "name": "Open Mouth",
+      "biome": "Dense Biozone",
+      "seed": 1515062091,
       "stages": [
         {
           "id": 1,
           "primary": "Aquarq x7",
-          "secondary": "Morkite x150",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": "Low Oxygen"
         },
         {
           "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Morkite x200",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
           "primary": "On-Site Refining",
-          "secondary": "Morkite x150",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Rival Presence"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Jagged Split",
-      "biome": "Azure Weald",
-      "seed": 1278306635,
+      "name": "Foggy Inland",
+      "biome": "Crystalline Caverns",
+      "seed": 4190430484,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
+          "primary": "Aquarq x10",
           "secondary": "Black Box",
-          "anomaly": "Volatile Guts",
-          "warning": null
+          "anomaly": null,
+          "warning": "Elite Threat"
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite x150",
+          "primary": "Mule x3",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 3,
-          "primary": "Egg x6",
+          "primary": "Dreadnought x2 (T+H)",
           "secondary": "Black Box",
           "anomaly": null,
           "warning": "Exploder Infestation"
