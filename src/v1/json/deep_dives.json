@@ -17,17 +17,17 @@
         },
         {
           "id": 2,
-          "primary": "Unknown",
-          "secondary": "Unknown",
-          "anomaly": null,
+          "primary": "Egg x6",
+          "secondary": "Mule x2",
+          "anomaly": "Critical Weakness",
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Shield Disruption"
         }
       ]
     },
