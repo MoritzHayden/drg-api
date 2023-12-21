@@ -1,62 +1,62 @@
 {
-  "startTime": "2023-12-14T11:00:00Z",
-  "endTime": "2023-12-21T11:00:00Z",
+  "startTime": "2023-12-21T11:00:00Z",
+  "endTime": "2023-12-28T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Open Mouth",
-      "biome": "Dense Biozone",
-      "seed": 1515062091,
+      "name": "Corrosive Rising",
+      "biome": "Crystalline Caverns",
+      "seed": 2058353017,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x7",
+          "primary": "Mule x3",
           "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Lethal Enemies"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Foggy Inland",
-      "biome": "Crystalline Caverns",
-      "seed": 4190430484,
+      "name": "Raging Haunt",
+      "biome": "Fungus Bogs",
+      "seed": 2413482965,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x10",
-          "secondary": "Black Box",
+          "primary": "Mule x3",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": null,
+          "warning": "Parasites"
+        },
+        {
+          "id": 3,
           "primary": "Mule x3",
           "secondary": "Egg x2",
           "anomaly": null,
           "warning": "Regenerative Bugs"
-        },
-        {
-          "id": 3,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
         }
       ]
     }
