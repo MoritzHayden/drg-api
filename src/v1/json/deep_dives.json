@@ -1,31 +1,31 @@
 {
-  "startTime": "2024-01-04T11:00:00Z",
-  "endTime": "2024-01-11T11:00:00Z",
+  "startTime": "2024-01-11T11:00:00Z",
+  "endTime": "2024-01-18T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Hideous Heart",
-      "biome": "Dense Biozone",
-      "seed": 2609927460,
+      "name": "Purified View",
+      "biome": "Glacial Strata",
+      "seed": 2056299856,
       "stages": [
         {
           "id": 1,
           "primary": "Morkite x200",
-          "secondary": "Mule x2",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Haunted Cave"
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Mule x3",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Morkite x225",
-          "secondary": "Black Box",
+          "primary": "Unknown",
+          "secondary": "Unknown",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Weeping Feast",
-      "biome": "Crystalline Caverns",
-      "seed": 672609490,
+      "name": "Awful Impact",
+      "biome": "Azure Weald",
+      "seed": 125112745,
       "stages": [
         {
           "id": 1,
           "primary": "Morkite x200",
-          "secondary": "Black Box",
-          "anomaly": "Volatile Guts",
-          "warning": "Cave Leech Cluster"
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": "Elite Threat"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Morkite x150",
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": "Rival Presence"
         },
         {
           "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "primary": "Aquarq x10",
+          "secondary": "Black Box",
+          "anomaly": "Critical Weakness",
+          "warning": "Regenerative Bugs"
         }
       ]
     }
