@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-01-25T11:00:00Z",
-  "endTime": "2024-02-01T11:00:00Z",
+  "startTime": "2024-02-01T11:00:00Z",
+  "endTime": "2024-02-08T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Unveiled Expanse",
+      "name": "Loser's Darkness",
       "biome": "Magma Core",
-      "seed": 1718752850,
+      "seed": 2491761568,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (H+D)",
-          "secondary": "Black Box",
+          "primary": "Egg x4",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Parasites"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Black Box",
-          "anomaly": null,
+          "primary": "Industrial Sabotage",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": "Volatile Guts",
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (H+D)",
+          "primary": "Aquarq x7",
           "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Cave Leech Cluster"
+          "warning": "Shield Disruption"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Green Sanctuary",
-      "biome": "Hollow Bough",
-      "seed": 2994985136,
+      "name": "Crumbling Trick",
+      "biome": "Salt Pits",
+      "seed": 3333888277,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "primary": "Aquarq x10",
+          "secondary": "Morkite x150",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "Mule x2",
+          "primary": "Mule x3",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
+          "primary": "Morkite x250",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": null
         }
       ]
     }
