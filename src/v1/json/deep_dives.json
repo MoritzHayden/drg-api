@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-02-01T11:00:00Z",
-  "endTime": "2024-02-08T11:00:00Z",
+  "startTime": "2024-02-08T11:00:00Z",
+  "endTime": "2024-02-15T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Loser's Darkness",
-      "biome": "Magma Core",
-      "seed": 2491761568,
+      "name": "Peeled Reserve",
+      "biome": "Salt Pits",
+      "seed": 2873442879,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
+          "primary": "Morkite x225",
           "secondary": "Dreadnought x1 (T)",
-          "anomaly": null,
-          "warning": "Parasites"
+          "anomaly": "Rich Atmosphere",
+          "warning": "Mactera Plague"
         },
         {
           "id": 2,
-          "primary": "Industrial Sabotage",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": "Volatile Guts",
+          "primary": "Dreadnought x2 (H+T)",
+          "secondary": "Egg x2",
+          "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Aquarq x7",
-          "secondary": "Black Box",
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Haunted Cave"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Crumbling Trick",
-      "biome": "Salt Pits",
-      "seed": 3333888277,
+      "name": "Corroded Walk",
+      "biome": "Azure Weald",
+      "seed": 3303549826,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x10",
-          "secondary": "Morkite x150",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Swarmageddon"
+          "primary": "Morkite x200",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Lethal Enemies"
         },
         {
           "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Dreadnought x2 (D+T)",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Morkite x250",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "On-Site Refining",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Haunted Cave"
         }
       ]
     }
