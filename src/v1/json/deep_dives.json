@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-02-08T11:00:00Z",
-  "endTime": "2024-02-15T11:00:00Z",
+  "startTime": "2024-02-15T11:00:00Z",
+  "endTime": "2024-02-22T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Peeled Reserve",
+      "name": "Lucky Dusk",
       "biome": "Salt Pits",
-      "seed": 2873442879,
+      "seed": 1729880476,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Mactera Plague"
-        },
-        {
-          "id": 2,
-          "primary": "Dreadnought x2 (H+T)",
-          "secondary": "Egg x2",
-          "anomaly": null,
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
+          "anomaly": "Volatile Guts",
           "warning": null
         },
         {
-          "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (D)",
+          "id": 2,
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": "Elite Threat"
+        },
+        {
+          "id": 3,
+          "primary": "Dreadnought x2 (H+T)",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Corroded Walk",
-      "biome": "Azure Weald",
-      "seed": 3303549826,
+      "name": "Dusty Axe",
+      "biome": "Hollow Bough",
+      "seed": 3250280255,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 2,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Cave Leech Cluster"
-        },
-        {
-          "id": 3,
-          "primary": "On-Site Refining",
+          "primary": "Dreadnought x2 (H+D)",
           "secondary": "Morkite x150",
           "anomaly": null,
           "warning": "Haunted Cave"
+        },
+        {
+          "id": 2,
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 3,
+          "primary": "Mule x2",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
         }
       ]
     }
