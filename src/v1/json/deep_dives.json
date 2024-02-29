@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-02-22T11:00:00Z",
-  "endTime": "2024-02-29T11:00:00Z",
+  "startTime": "2024-02-29T11:00:00Z",
+  "endTime": "2024-03-07T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Colossal Ceiling",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 1850427793,
+      "name": "True Blackout",
+      "biome": "Glacial Strata",
+      "seed": 878530862,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Morkite x150",
+          "primary": "Egg x6",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Cave Leech Cluster"
+          "primary": "Aquarq x7",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": null,
+          "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Egg x6",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Low Oxygen"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Rocky Claw",
+      "name": "Ancient Wasteland",
       "biome": "Dense Biozone",
-      "seed": 2408432230,
+      "seed": 1684351842,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
+          "primary": "Egg x4",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
           "primary": "Industrial Sabotage",
-          "secondary": "Mule x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Shield Disruption"
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Elite Threat"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Rival Presence"
+          "primary": "Aquarq x7",
+          "secondary": "Black Box",
+          "anomaly": "Critical Weakness",
+          "warning": "Shield Disruption"
         }
       ]
     }
