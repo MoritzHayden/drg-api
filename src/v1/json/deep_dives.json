@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-03-07T11:00:00Z",
-  "endTime": "2024-03-14T11:00:00Z",
+  "startTime": "2024-03-14T11:00:00Z",
+  "endTime": "2024-03-21T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Defect Earth",
-      "biome": "Azure Weald",
-      "seed": 613065592,
+      "name": "Big Heart",
+      "biome": "Sandblasted Corridors",
+      "seed": 482914584,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Mule x2",
+          "primary": "Dreadnought x2 (H+T)",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Exploder Infestation"
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 3,
+          "primary": "On-Site Refining",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Parasites"
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Bloodstained Soil",
+      "biome": "Salt Pits",
+      "seed": 425884904,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Parasites"
         },
         {
           "id": 2,
           "primary": "Morkite x200",
           "secondary": "Black Box",
           "anomaly": "Volatile Guts",
-          "warning": "Rival Presence"
+          "warning": "Elite Threat"
         },
         {
           "id": 3,
           "primary": "On-Site Refining",
           "secondary": "Egg x2",
           "anomaly": null,
-          "warning": null
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Devil's Run",
-      "biome": "Salt Pits",
-      "seed": 2689773978,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": null
-        },
-        {
-          "id": 2,
-          "primary": "Morkite x250",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": null,
-          "warning": "Cave Leech Cluster"
+          "warning": "Regenerative Bugs"
         }
       ]
     }
