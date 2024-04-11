@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-04-04T11:00:00Z",
-  "endTime": "2024-04-11T11:00:00Z",
+  "startTime": "2024-04-11T11:00:00Z",
+  "endTime": "2024-04-18T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Wicked Pass",
+      "name": "Ruptured Trench",
       "biome": "Fungus Bogs",
-      "seed": 786595826,
+      "seed": 3494531451,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x7",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 2,
-          "primary": "Industrial Sabotage",
-          "secondary": "Morkite x150",
+          "primary": "Escort Duty",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": null
         },
         {
+          "id": 2,
+          "primary": "On-Site Refining",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Parasites"
+        },
+        {
           "id": 3,
           "primary": "Aquarq x7",
-          "secondary": "Black Box",
-          "anomaly": "Critical Weakness",
-          "warning": "Low Oxygen"
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Haunted Cave"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Distant Summit",
-      "biome": "Magma Core",
-      "seed": 3283017216,
+      "name": "Raw Cover",
+      "biome": "Crystalline Caverns",
+      "seed": 4085958944,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
+          "primary": "Egg x6",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Mule x2",
+          "primary": "Aquarq x7",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Elite Threat"
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Lethal Enemies"
+          "primary": "Dreadnought x2 (D+H)",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
         }
       ]
     }
