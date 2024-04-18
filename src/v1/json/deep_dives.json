@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-04-11T11:00:00Z",
-  "endTime": "2024-04-18T11:00:00Z",
+  "startTime": "2024-04-18T11:00:00Z",
+  "endTime": "2024-04-25T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Ruptured Trench",
-      "biome": "Fungus Bogs",
-      "seed": 3494531451,
+      "name": "Creeping Wilderness",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 2436732545,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
+          "primary": "Mule x3",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": null,
+          "warning": "Mactera Plague"
+        },
+        {
+          "id": 2,
+          "primary": "Dreadnought x2 (T+H)",
           "secondary": "Mule x2",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Parasites"
-        },
-        {
           "id": 3,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite x150",
+          "primary": "Egg x6",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": "Swarmageddon"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Raw Cover",
-      "biome": "Crystalline Caverns",
-      "seed": 4085958944,
+      "name": "Final Hope",
+      "biome": "Fungus Bogs",
+      "seed": 2156623494,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
+          "primary": "Escort Duty",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Black Box",
+          "primary": "Egg x6",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Lethal Enemies"
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (D+H)",
+          "primary": "On-Site Refining",
           "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
+          "anomaly": "Critical Weakness",
+          "warning": "Shield Disruption"
         }
       ]
     }
