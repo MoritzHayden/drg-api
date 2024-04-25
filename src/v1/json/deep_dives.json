@@ -1,24 +1,53 @@
 {
-  "startTime": "2024-04-18T11:00:00Z",
-  "endTime": "2024-04-25T11:00:00Z",
+  "startTime": "2024-04-25T11:00:00Z",
+  "endTime": "2024-05-02T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Creeping Wilderness",
+      "name": "Glowing Raid",
       "biome": "Radioactive Exclusion Zone",
-      "seed": 2436732545,
+      "seed": 2290869166,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x3",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Industrial Sabotage",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": "Mactera Plague"
         },
         {
           "id": 2,
-          "primary": "Dreadnought x2 (T+H)",
+          "primary": "Mule x2",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
+        },
+        {
+          "id": 3,
+          "primary": "Morkite x200",
           "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": null
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Old Covert",
+      "biome": "Dense Biozone",
+      "seed": 2766386542,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Mule x2",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
+        },
+        {
+          "id": 2,
+          "primary": "On-Site Refining",
+          "secondary": "Egg x2",
           "anomaly": null,
           "warning": null
         },
@@ -28,35 +57,6 @@
           "secondary": "Mule x2",
           "anomaly": null,
           "warning": "Swarmageddon"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Final Hope",
-      "biome": "Fungus Bogs",
-      "seed": 2156623494,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": null
-        },
-        {
-          "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Black Box",
-          "anomaly": "Critical Weakness",
-          "warning": "Shield Disruption"
         }
       ]
     }
