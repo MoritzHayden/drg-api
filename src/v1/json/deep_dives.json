@@ -1,60 +1,60 @@
 {
-  "startTime": "2024-05-09T11:00:00Z",
-  "endTime": "2024-05-16T11:00:00Z",
+  "startTime": "2024-05-16T11:00:00Z",
+  "endTime": "2024-05-23T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Bronze Hideout",
-      "biome": "Crystalline Caverns",
-      "seed": 3273528081,
+      "name": "Sharp View",
+      "biome": "Sandblasted Corridors",
+      "seed": 109303996,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x3",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": "Critical Weakness",
-          "warning": "Lethal Enemies"
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": null,
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Egg x2",
+          "primary": "Egg x4",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Exploder Infestation"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": null
+          "primary": "Mule x2",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": "Critical Weakness",
+          "warning": "Shield Disruption"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Outrageous Hope",
-      "biome": "Sandblasted Corridors",
-      "seed": 3914848305,
+      "name": "Furious Bedrock",
+      "biome": "Dense Biozone",
+      "seed": 1668369216,
       "stages": [
         {
           "id": 1,
           "primary": "On-Site Refining",
-          "secondary": "Black Box",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
-          "primary": "Aquarq x10",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": "Rival Presence"
         },
         {
           "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Morkite x150",
+          "primary": "Egg x4",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": "Elite Threat"
         }
