@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-05-30T11:00:00Z",
-  "endTime": "2024-06-06T11:00:00Z",
+  "startTime": "2024-06-06T11:00:00Z",
+  "endTime": "2024-06-13T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Stinking Crypt",
-      "biome": "Dense Biozone",
-      "seed": 553822051,
+      "name": "Fathomless Avalanche",
+      "biome": "Salt Pits",
+      "seed": 1641838004,
       "stages": [
         {
           "id": 1,
           "primary": "Aquarq x7",
-          "secondary": "Dreadnought x1 (H)",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Haunted Cave"
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x225",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Low Oxygen"
-        },
-        {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
+          "primary": "Escort Duty",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Mactera Plague"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Heavy Betrayal",
+      "name": "Dastardly Relief",
       "biome": "Azure Weald",
-      "seed": 4064761786,
+      "seed": 2050761902,
       "stages": [
         {
           "id": 1,
           "primary": "Egg x4",
           "secondary": "Mule x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Elite Threat"
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": null,
+          "primary": "Aquarq x7",
+          "secondary": "Black Box",
+          "anomaly": "Critical Weakness",
           "warning": "Shield Disruption"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Morkite x250",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Rival Presence"
         }
       ]
     }
