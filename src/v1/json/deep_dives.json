@@ -4,28 +4,28 @@
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Fragile Comeback",
-      "biome": "Dense Biozone",
+      "name": "Everlasting Head",
+      "biome": "Magma Core",
       "seed": 1810666053,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x3",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Crystal Scan x3 + Drill",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": null
+          "warning": "Rival Presence"
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Morkite x250",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Gangrenous Cemetery",
-      "biome": "Sandblasted Corridors",
+      "name": "Crying Comeback",
+      "biome": "Salt Pits",
       "seed": 71169,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": null
+          "primary": "Crystal Scan x5 + Drill",
+          "secondary": "Morkite x150",
+          "anomaly": "Low Gravity",
+          "warning": "Mactera Plague"
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Morkite x200",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Swarmageddon"
         },
         {
           "id": 3,
-          "primary": "Deep Scan",
-          "secondary": "Mule x2",
+          "primary": "Egg x6",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": null
         }
       ]
     }
