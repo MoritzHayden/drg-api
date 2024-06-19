@@ -96,7 +96,8 @@ def construct_deep_dives(metadata: dict, information: str) -> DeepDives:
 
 
 def format_objective(objective: str) -> str:
-    return objective.replace(" + Uplink", "")
+    return objective.replace(" + Uplink", "") \
+                    .replace(" + Drill", "")
 
 
 def map_biome(biome: str) -> Optional[Biome]:

@@ -17,7 +17,7 @@
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x3 + Drill",
+          "primary": "Crystal Scan x3",
           "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": "Rival Presence"
@@ -39,7 +39,7 @@
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x5 + Drill",
+          "primary": "Crystal Scan x5",
           "secondary": "Morkite x150",
           "anomaly": "Low Gravity",
           "warning": "Mactera Plague"
