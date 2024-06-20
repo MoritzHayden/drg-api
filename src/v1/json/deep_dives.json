@@ -20,14 +20,14 @@
           "primary": "Escort Duty",
           "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": null
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
           "primary": "Industrial Sabotage",
           "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": null
+          "warning": "Duck and Cover"
         }
       ]
     },

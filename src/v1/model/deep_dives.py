@@ -31,6 +31,7 @@ class Anomaly(str, Enum):
     """
     An anomaly that can appear in a Deep Dive stage.
     """
+    BLOOD_SUGAR = "Blood Sugar"
     CRITICAL_WEAKNESS = "Critical Weakness"
     DOUBLE_XP = "Double XP"
     GOLD_RUSH = "Gold Rush"
@@ -38,6 +39,7 @@ class Anomaly(str, Enum):
     LOW_GRAVITY = "Low Gravity"
     MINERAL_MANIA = "Mineral Mania"
     RICH_ATMOSPHERE = "Rich Atmosphere"
+    SECRET_SECONDARY = "Secret Secondary"
     VOLATILE_GUTS = "Volatile Guts"
 
 
@@ -46,6 +48,8 @@ class Warning(str, Enum):
     A warning that can appear in a Deep Dive stage.
     """
     CAVE_LEECH_CLUSTER = "Cave Leech Cluster"
+    DUCK_AND_COVER= "Duck and Cover"
+    EBONITE_OUTBREAK = "Ebonite Outbreak"
     ELITE_THREAT = "Elite Threat"
     EXPLODER_INFESTATION = "Exploder Infestation"
     HAUNTED_CAVE = "Haunted Cave"
