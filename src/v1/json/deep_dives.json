@@ -1,31 +1,31 @@
 {
-  "startTime": "2024-06-13T11:00:00Z",
-  "endTime": "2024-06-20T11:00:00Z",
+  "startTime": "2024-06-20T11:00:00Z",
+  "endTime": "2024-06-27T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Everlasting Head",
-      "biome": "Magma Core",
-      "seed": 1810666053,
+      "name": "Gargantuan Trail",
+      "biome": "Azure Weald",
+      "seed": 2135199391,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Crystal Scan x2",
+          "primary": "Mule x3",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x3",
+          "primary": "Escort Duty",
           "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Morkite x250",
-          "secondary": "Crystal Scan x2",
+          "primary": "Industrial Sabotage",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Crying Comeback",
-      "biome": "Salt Pits",
-      "seed": 71169,
+      "name": "Fearful Haunt",
+      "biome": "Fungus Bogs",
+      "seed": 846893923,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x5",
-          "secondary": "Morkite x150",
-          "anomaly": "Low Gravity",
-          "warning": "Mactera Plague"
+          "primary": "Dreadnought x2 (D+H)",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
+          "primary": "Aquarq x7",
           "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Morkite Well x1",
+          "primary": "Escort Duty",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Parasites"
         }
       ]
     }
