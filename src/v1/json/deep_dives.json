@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-07-11T11:00:00Z",
-  "endTime": "2024-07-18T11:00:00Z",
+  "startTime": "2024-07-18T11:00:00Z",
+  "endTime": "2024-07-25T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Unknown Comeback",
-      "biome": "Azure Weald",
-      "seed": 165956950,
+      "name": "Endless Drift",
+      "biome": "Dense Biozone",
+      "seed": 1078964460,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Morkite x200",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Elite Threat"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Mule x2",
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": null
+          "primary": "Morkite x250",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Low Oxygen"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Clean Bed",
-      "biome": "Sandblasted Corridors",
-      "seed": 845016340,
+      "name": "Engineer's Field",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 2975232387,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Crystal Scan x2",
+          "primary": "Morkite x200",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": "Duck and Cover"
         },
         {
           "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Swarmageddon"
+          "primary": "Aquarq x10",
+          "secondary": "Egg x2",
+          "anomaly": "Low Gravity",
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Morkite x150",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Lethal Enemies"
+          "primary": "Morkite x200",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": null
         }
       ]
     }
