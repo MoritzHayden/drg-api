@@ -1,60 +1,60 @@
 {
-  "startTime": "2024-07-18T11:00:00Z",
-  "endTime": "2024-07-25T11:00:00Z",
+  "startTime": "2024-07-25T11:00:00Z",
+  "endTime": "2024-08-01T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Endless Drift",
-      "biome": "Dense Biozone",
-      "seed": 1078964460,
+      "name": "Broken Ledge",
+      "biome": "Magma Core",
+      "seed": 3396095335,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Elite Threat"
-        },
-        {
-          "id": 2,
-          "primary": "Dreadnought x2 (T+D)",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": "Volatile Guts",
           "warning": null
         },
         {
-          "id": 3,
-          "primary": "Morkite x250",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Low Oxygen"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Engineer's Field",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 2975232387,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Morkite x200",
+          "id": 2,
+          "primary": "Egg x6",
           "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": "Duck and Cover"
         },
         {
-          "id": 2,
-          "primary": "Aquarq x10",
+          "id": 3,
+          "primary": "On-Site Refining",
           "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Regenerative Bugs"
+          "anomaly": null,
+          "warning": "Lethal Enemies"
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Secret Pocket",
+      "biome": "Fungus Bogs",
+      "seed": 256829273,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Aquarq x7",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Parasites"
+        },
+        {
+          "id": 2,
+          "primary": "On-Site Refining",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Haunted Cave"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Crystal Scan x2",
+          "primary": "Aquarq x10",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": null
         }
