@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-08-01T11:00:00Z",
-  "endTime": "2024-08-08T11:00:00Z",
+  "startTime": "2024-08-08T11:00:00Z",
+  "endTime": "2024-08-15T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Stale Crypt",
-      "biome": "Glacial Strata",
-      "seed": 2302070197,
+      "name": "Abyssal Level",
+      "biome": "Hollow Bough",
+      "seed": 1315209885,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
+          "primary": "On-Site Refining",
           "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": null
+          "anomaly": "Low Gravity",
+          "warning": "Duck and Cover"
         },
         {
           "id": 2,
-          "primary": "Dreadnought x2 (H+T)",
-          "secondary": "Morkite x150",
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Aquarq x7",
-          "secondary": "Black Box",
+          "primary": "Morkite x200",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Big Path",
-      "biome": "Crystalline Caverns",
-      "seed": 3607535296,
+      "name": "Blunt Avalanche",
+      "biome": "Fungus Bogs",
+      "seed": 3523969537,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Rival Presence"
-        },
-        {
-          "id": 2,
-          "primary": "Industrial Sabotage",
-          "secondary": "Mule x2",
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
           "warning": "Exploder Infestation"
         },
         {
+          "id": 2,
+          "primary": "Mule x3",
+          "secondary": "Egg x2",
+          "anomaly": "Low Gravity",
+          "warning": null
+        },
+        {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Mule x2",
+          "primary": "Dreadnought x2 (D+H)",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Haunted Cave"
         }
       ]
     }
