@@ -4,8 +4,8 @@
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Leaf Lover's Territory",
-      "biome": "Glacial Strata",
+      "name": "Defect Root",
+      "biome": "Sandblasted Corridors",
       "seed": 2311047839,
       "stages": [
         {
@@ -13,50 +13,50 @@
           "primary": "Egg x4",
           "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Low Oxygen"
         },
         {
           "id": 2,
-          "primary": "Dreadnought x2 (H+D)",
-          "secondary": "Crystal Scan x2",
+          "primary": "Mule x2",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
+          "primary": "Crystal Scan x3",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Regenerative Bugs"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Deadman's Den",
-      "biome": "Dense Biozone",
+      "name": "Evil Hold",
+      "biome": "Crystalline Caverns",
       "seed": 2419844685,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Morkite Well x1",
+          "primary": "Aquarq x10",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Ebonite Outbreak"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
+          "primary": "Morkite x200",
+          "secondary": "Egg x2",
+          "anomaly": "Low Gravity",
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Aquarq x10",
-          "secondary": "Black Box",
+          "primary": "Egg x4",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": null
         }
       ]
     }
