@@ -1,12 +1,12 @@
 {
-  "startTime": "2024-08-15T11:00:00Z",
-  "endTime": "2024-08-22T11:00:00Z",
+  "startTime": "2024-08-22T11:00:00Z",
+  "endTime": "2024-08-29T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
       "name": "Leaf Lover's Territory",
       "biome": "Glacial Strata",
-      "seed": 2229679438,
+      "seed": 2311047839,
       "stages": [
         {
           "id": 1,
@@ -35,7 +35,7 @@
       "type": "Elite Deep Dive",
       "name": "Deadman's Den",
       "biome": "Dense Biozone",
-      "seed": 641902061,
+      "seed": 2419844685,
       "stages": [
         {
           "id": 1,
