@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-08-29T11:00:00Z",
-  "endTime": "2024-09-05T11:00:00Z",
+  "startTime": "2024-09-05T11:00:00Z",
+  "endTime": "2024-09-12T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Carnal Grin",
-      "biome": "Azure Weald",
-      "seed": 358535668,
+      "name": "Strange Wilderness",
+      "biome": "Crystalline Caverns",
+      "seed": 3310376497,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Regenerative Bugs"
-        },
-        {
-          "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Mule x3",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Ebonite Outbreak"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Gutless Grave",
-      "biome": "Sandblasted Corridors",
-      "seed": 12391338,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Elite Threat"
-        },
-        {
           "id": 2,
-          "primary": "Mule x3",
+          "primary": "Industrial Sabotage",
           "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": "Shield Disruption"
         },
         {
           "id": 3,
-          "primary": "Aquarq x10",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Escort Duty",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": "Lethal Enemies"
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Forgotten Patrol",
+      "biome": "Salt Pits",
+      "seed": 3786461095,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Ebonite Outbreak"
+        },
+        {
+          "id": 2,
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Low Oxygen"
+        },
+        {
+          "id": 3,
+          "primary": "On-Site Refining",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
         }
       ]
     }
