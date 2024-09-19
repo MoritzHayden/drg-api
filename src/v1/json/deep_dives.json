@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-09-12T11:00:00Z",
-  "endTime": "2024-09-19T11:00:00Z",
+  "startTime": "2024-09-19T11:00:00Z",
+  "endTime": "2024-09-26T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Deadly Contact",
-      "biome": "Fungus Bogs",
-      "seed": 3141436415,
+      "name": "Dead Lodge",
+      "biome": "Sandblasted Corridors",
+      "seed": 1759962801,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x7",
-          "secondary": "Black Box",
-          "anomaly": "Volatile Guts",
+          "primary": "Industrial Sabotage",
+          "secondary": "Morkite x150",
+          "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
           "primary": "Morkite x200",
-          "secondary": "Morkite Well x1",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Ebonite Outbreak"
+          "warning": "Shield Disruption"
         },
         {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Morkite Well x1",
+          "primary": "On-Site Refining",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": "Regenerative Bugs"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Calm Blank",
-      "biome": "Salt Pits",
-      "seed": 2789706341,
+      "name": "Useless Force",
+      "biome": "Hollow Bough",
+      "seed": 405348536,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "primary": "Egg x6",
+          "secondary": "Morkite Well x1",
+          "anomaly": "Blood Sugar",
+          "warning": "Low Oxygen"
         },
         {
           "id": 2,
-          "primary": "Morkite x250",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Cave Leech Cluster"
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
         },
         {
           "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Crystal Scan x2",
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Swarmageddon"
         }
       ]
     }
