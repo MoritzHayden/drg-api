@@ -18,14 +18,14 @@
         {
           "id": 2,
           "primary": "Mule x3",
-          "secondary": "Dreadnought x1",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Unknown",
-          "secondary": "Unknown",
+          "primary": "Industrial Sabotage",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": null
         }
