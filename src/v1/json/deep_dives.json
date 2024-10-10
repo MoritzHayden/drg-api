@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-10-03T11:00:00Z",
-  "endTime": "2024-10-10T11:00:00Z",
+  "startTime": "2024-10-10T11:00:00Z",
+  "endTime": "2024-10-17T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Bestial Jewel",
+      "name": "Cimmerian Grin",
       "biome": "Dense Biozone",
-      "seed": 2354578323,
+      "seed": 2729018352,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Black Box",
+          "primary": "Industrial Sabotage",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "On-Site Refining",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Cave Leech Cluster"
+          "warning": "Parasites"
         },
         {
           "id": 3,
-          "primary": "Industrial Sabotage",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": "Rich Atmosphere",
+          "primary": "Dreadnought x2 (H+T)",
+          "secondary": "Egg x2",
+          "anomaly": null,
           "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Dim Covert",
-      "biome": "Azure Weald",
-      "seed": 3874228501,
+      "name": "Dastardly Drift",
+      "biome": "Salt Pits",
+      "seed": 4032400068,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Crystal Scan x2",
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": "Duck and Cover"
         },
         {
           "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Egg x2",
+          "primary": "Morkite x250",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Mule x2",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Lethal Enemies"
         }
       ]
     }
