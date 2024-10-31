@@ -1,60 +1,60 @@
 {
-  "startTime": "2024-10-24T11:00:00Z",
-  "endTime": "2024-10-31T11:00:00Z",
+  "startTime": "2024-10-31T11:00:00Z",
+  "endTime": "2024-11-07T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Mythic Inland",
-      "biome": "Fungus Bogs",
-      "seed": 3818042211,
+      "name": "First Hand",
+      "biome": "Hollow Bough",
+      "seed": 4126933064,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Mule x2",
+          "primary": "Egg x6",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Lethal Enemies"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
+          "primary": "Crystal Scan x3",
           "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Shield Disruption"
+          "primary": "Egg x4",
+          "secondary": "Black Box",
+          "anomaly": "Volatile Guts",
+          "warning": "Regenerative Bugs"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Broken Return",
-      "biome": "Dense Biozone",
-      "seed": 3105567569,
+      "name": "Absolute Hook",
+      "biome": "Sandblasted Corridors",
+      "seed": 2131153505,
       "stages": [
         {
           "id": 1,
           "primary": "On-Site Refining",
-          "secondary": "Black Box",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Parasites"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Morkite x150",
-          "anomaly": "Low Gravity",
-          "warning": null
+          "primary": "Morkite x250",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": null,
+          "warning": "Low Oxygen"
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Black Box",
+          "primary": "Aquarq x7",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": "Elite Threat"
         }
