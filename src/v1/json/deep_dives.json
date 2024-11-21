@@ -1,31 +1,31 @@
 {
-  "startTime": "2024-11-14T11:00:00Z",
-  "endTime": "2024-11-21T11:00:00Z",
+  "startTime": "2024-11-21T11:00:00Z",
+  "endTime": "2024-11-28T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Foggy Crosscut",
-      "biome": "Sandblasted Corridors",
-      "seed": 88267041,
+      "name": "Insane Killing",
+      "biome": "Dense Biozone",
+      "seed": 3711527498,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x7",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Swarmageddon"
+          "primary": "Egg x6",
+          "secondary": "Black Box",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Elite Threat"
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Crystal Scan x2",
+          "primary": "Morkite x200",
+          "secondary": "Egg x2",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Morkite x250",
-          "secondary": "Morkite Well x1",
+          "primary": "Industrial Sabotage",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": "Duck and Cover"
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Fragile Gods",
-      "biome": "Magma Core",
-      "seed": 1067495182,
+      "name": "Fast Earth",
+      "biome": "Fungus Bogs",
+      "seed": 3093113546,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Mule x2",
-          "anomaly": "Volatile Guts",
-          "warning": "Duck and Cover"
+          "primary": "Egg x6",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
+          "primary": "Mule x3",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": "Exploder Infestation"
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (T+D)",
-          "secondary": "Mule x2",
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Duck and Cover"
         }
       ]
     }
