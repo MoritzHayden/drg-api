@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-11-21T11:00:00Z",
-  "endTime": "2024-11-28T11:00:00Z",
+  "startTime": "2024-11-28T11:00:00Z",
+  "endTime": "2024-12-05T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Insane Killing",
-      "biome": "Dense Biozone",
-      "seed": 3711527498,
+      "name": "Full Pocket",
+      "biome": "Hollow Bough",
+      "seed": 466097909,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Elite Threat"
+          "primary": "Egg x4",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Lethal Enemies"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": null
-        },
-        {
-          "id": 3,
-          "primary": "Industrial Sabotage",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Duck and Cover"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Fast Earth",
-      "biome": "Fungus Bogs",
-      "seed": 3093113546,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Egg x6",
+          "primary": "Crystal Scan x3",
           "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Cave Leech Cluster"
-        },
-        {
-          "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": "Exploder Infestation"
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Industrial Sabotage",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": null
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Corrupt Find",
+      "biome": "Crystalline Caverns",
+      "seed": 2426068131,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Morkite x225",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": "Duck and Cover"
+        },
+        {
+          "id": 2,
+          "primary": "On-Site Refining",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Low Oxygen"
+        },
+        {
+          "id": 3,
+          "primary": "Egg x4",
+          "secondary": "Black Box",
+          "anomaly": "Volatile Guts",
+          "warning": null
         }
       ]
     }
