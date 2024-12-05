@@ -1,62 +1,62 @@
 {
-  "startTime": "2024-11-28T11:00:00Z",
-  "endTime": "2024-12-05T11:00:00Z",
+  "startTime": "2024-12-05T11:00:00Z",
+  "endTime": "2024-12-12T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Full Pocket",
-      "biome": "Hollow Bough",
-      "seed": 466097909,
+      "name": "Everlasting Darkness",
+      "biome": "Crystalline Caverns",
+      "seed": 4218939,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
-          "secondary": "Morkite x150",
-          "anomaly": null,
+          "primary": "Morkite x250",
+          "secondary": "Black Box",
+          "anomaly": "Volatile Guts",
           "warning": "Lethal Enemies"
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x3",
-          "secondary": "Black Box",
+          "primary": "Mule x2",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Industrial Sabotage",
-          "secondary": "Egg x2",
+          "primary": "Escort Duty",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Parasites"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Corrupt Find",
-      "biome": "Crystalline Caverns",
-      "seed": 2426068131,
+      "name": "Dim Dump",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 600886443,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
-          "secondary": "Morkite Well x1",
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
+          "primary": "Morkite x250",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Black Box",
-          "anomaly": "Volatile Guts",
-          "warning": null
+          "primary": "Mule x2",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Parasites"
         }
       ]
     }
