@@ -1,60 +1,60 @@
 {
-  "startTime": "2024-12-05T11:00:00Z",
-  "endTime": "2024-12-12T11:00:00Z",
+  "startTime": "2024-12-12T11:00:00Z",
+  "endTime": "2024-12-19T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Everlasting Darkness",
-      "biome": "Crystalline Caverns",
-      "seed": 4218939,
+      "name": "Rippled Mouth",
+      "biome": "Salt Pits",
+      "seed": 2323184512,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Black Box",
-          "anomaly": "Volatile Guts",
-          "warning": "Lethal Enemies"
+          "primary": "Egg x6",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Duck and Cover"
         },
         {
           "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Escort Duty",
+          "secondary": "Egg x2",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "Morkite x150",
+          "primary": "Industrial Sabotage",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Lethal Enemies"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Dim Dump",
+      "name": "Pale Boneyard",
       "biome": "Radioactive Exclusion Zone",
-      "seed": 600886443,
+      "seed": 678872021,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (T+D)",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Swarmageddon"
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Morkite x250",
-          "secondary": "Black Box",
+          "primary": "Egg x6",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Mule x2",
-          "secondary": "Morkite x150",
+          "primary": "Crystal Scan x3",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
           "warning": "Parasites"
         }
