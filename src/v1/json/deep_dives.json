@@ -1,60 +1,60 @@
 {
-  "startTime": "2025-01-09T11:00:00Z",
-  "endTime": "2025-01-16T11:00:00Z",
+  "startTime": "2025-01-16T11:00:00Z",
+  "endTime": "2025-01-23T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Covetous Track",
-      "biome": "Azure Weald",
-      "seed": 3529529475,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": null
-        },
-        {
-          "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Duck and Cover"
-        },
-        {
-          "id": 3,
-          "primary": "Dreadnought x2 (H+T)",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Shield Disruption"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Bitter End",
+      "name": "Bloodstained Cap",
       "biome": "Fungus Bogs",
-      "seed": 1856808366,
+      "seed": 1990716669,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x3",
-          "secondary": "Morkite x150",
+          "primary": "On-Site Refining",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": "Duck and Cover"
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Mule x2",
+          "primary": "Mule x3",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "Mule x2",
-          "secondary": "Crystal Scan x2",
+          "primary": "Morkite x250",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": null
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Corrosive Tomb",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 3649689708,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Crystal Scan x5",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Duck and Cover"
+        },
+        {
+          "id": 2,
+          "primary": "Escort Duty",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
+        },
+        {
+          "id": 3,
+          "primary": "Industrial Sabotage",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": null
         }
