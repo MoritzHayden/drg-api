@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-01-23T11:00:00Z",
-  "endTime": "2025-01-30T11:00:00Z",
+  "startTime": "2025-01-30T11:00:00Z",
+  "endTime": "2025-02-06T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Peeled Rising",
-      "biome": "Magma Core",
-      "seed": 1670957287,
+      "name": "Bleak Summit",
+      "biome": "Glacial Strata",
+      "seed": 4010770543,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Mule x2",
+          "primary": "Industrial Sabotage",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite x150",
+          "primary": "Morkite x200",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Ebonite Outbreak"
         },
         {
           "id": 3,
-          "primary": "Crystal Scan x3",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": "Rich Atmosphere",
-          "warning": "Ebonite Outbreak"
+          "warning": "Duck and Cover"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Endless Shelter",
-      "biome": "Crystalline Caverns",
-      "seed": 1131643224,
+      "name": "Infernal Base",
+      "biome": "Hollow Bough",
+      "seed": 663889099,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Black Box",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Ebonite Outbreak"
+          "primary": "Egg x4",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Morkite x150",
+          "primary": "Crystal Scan x3",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Morkite x250",
-          "secondary": "Black Box",
+          "primary": "Aquarq x7",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Parasites"
         }
       ]
     }
