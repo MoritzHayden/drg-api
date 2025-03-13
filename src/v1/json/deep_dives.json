@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-03-06T11:00:00Z",
-  "endTime": "2025-03-13T11:00:00Z",
+  "startTime": "2025-03-13T11:00:00Z",
+  "endTime": "2025-03-20T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Gangrenous Axe",
-      "biome": "Salt Pits",
-      "seed": 3824337971,
+      "name": "Covetous Impact",
+      "biome": "Sandblasted Corridors",
+      "seed": 2197069495,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite x150",
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
           "primary": "Mule x3",
-          "secondary": "Morkite Well x1",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Morkite x225",
-          "secondary": "Egg x2",
+          "primary": "Egg x4",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Exploder Infestation"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Carnal Perfection",
+      "name": "First Slope",
       "biome": "Dense Biozone",
-      "seed": 4075594761,
+      "seed": 3779544811,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
+          "primary": "Industrial Sabotage",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x5",
-          "secondary": "Morkite Well x1",
+          "primary": "Egg x4",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Aquarq x10",
+          "primary": "Aquarq x7",
           "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": null
         }
       ]
     }
