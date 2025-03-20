@@ -1,48 +1,19 @@
 {
-  "startTime": "2025-03-13T11:00:00Z",
-  "endTime": "2025-03-20T11:00:00Z",
+  "startTime": "2025-03-20T11:00:00Z",
+  "endTime": "2025-03-27T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Covetous Impact",
-      "biome": "Sandblasted Corridors",
-      "seed": 2197069495,
+      "name": "Crimson Citadel",
+      "biome": "Magma Core",
+      "seed": 527574111,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Swarmageddon"
-        },
-        {
-          "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": null
-        },
-        {
-          "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "First Slope",
-      "biome": "Dense Biozone",
-      "seed": 3779544811,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Industrial Sabotage",
+          "primary": "Mule x2",
           "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Swarmageddon"
+          "anomaly": "Blood Sugar",
+          "warning": "Mactera Plague"
         },
         {
           "id": 2,
@@ -53,10 +24,39 @@
         },
         {
           "id": 3,
-          "primary": "Aquarq x7",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Mighty Face",
+      "biome": "Sandblasted Corridors",
+      "seed": 1560061607,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Egg x4",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": null,
+          "warning": "Haunted Cave"
+        },
+        {
+          "id": 2,
+          "primary": "Mule x2",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
+        },
+        {
+          "id": 3,
+          "primary": "Morkite x200",
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": "Mactera Plague"
         }
       ]
     }
