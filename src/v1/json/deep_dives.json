@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-03-27T11:00:00Z",
-  "endTime": "2025-04-03T11:00:00Z",
+  "startTime": "2025-04-03T11:00:00Z",
+  "endTime": "2025-04-10T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Useless Carve",
-      "biome": "Magma Core",
-      "seed": 2001243133,
+      "name": "Leaf Lover's Pit",
+      "biome": "Dense Biozone",
+      "seed": 2021999351,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
+          "primary": "Egg x4",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Duck and Cover"
+        },
+        {
+          "id": 2,
+          "primary": "Crystal Scan x3",
           "secondary": "Egg x2",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Regenerative Bugs"
-        },
-        {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Morkite Well x1",
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Ebonite Outbreak"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Fierce Basin",
-      "biome": "Salt Pits",
-      "seed": 416219104,
+      "name": "Hard Shroud",
+      "biome": "Hollow Bough",
+      "seed": 351625421,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
-          "secondary": "Dreadnought x1 (D)",
-          "anomaly": null,
-          "warning": "Parasites"
-        },
-        {
-          "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Morkite x200",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 3,
+          "id": 2,
           "primary": "Escort Duty",
-          "secondary": "Mule x2",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Ebonite Outbreak"
+        },
+        {
+          "id": 3,
+          "primary": "Egg x4",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Swarmageddon"
         }
       ]
     }
