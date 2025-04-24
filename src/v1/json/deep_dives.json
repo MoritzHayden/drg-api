@@ -1,60 +1,60 @@
 {
-  "startTime": "2025-04-17T11:00:00Z",
-  "endTime": "2025-04-24T11:00:00Z",
+  "startTime": "2025-04-24T11:00:00Z",
+  "endTime": "2025-05-01T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Fractured Tunnel",
-      "biome": "Hollow Bough",
-      "seed": 3432231811,
+      "name": "Clean Heart",
+      "biome": "Magma Core",
+      "seed": 1755253570,
       "stages": [
         {
           "id": 1,
           "primary": "Aquarq x7",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         },
         {
+          "id": 2,
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Exploder Infestation"
+        },
+        {
           "id": 3,
-          "primary": "Aquarq x7",
+          "primary": "Crystal Scan x3",
           "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": "Duck and Cover"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Unrobed Killing",
-      "biome": "Sandblasted Corridors",
-      "seed": 1403348036,
+      "name": "Awful Axe",
+      "biome": "Dense Biozone",
+      "seed": 2912029973,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Haunted Cave"
+          "primary": "Mule x3",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Parasites"
         },
         {
           "id": 2,
-          "primary": "Dreadnought x2 (T+D)",
-          "secondary": "Crystal Scan x2",
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Ebonite Outbreak"
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Crystal Scan x2",
+          "primary": "Escort Duty",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         }
