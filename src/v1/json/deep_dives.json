@@ -1,61 +1,61 @@
 {
-  "startTime": "2025-05-22T11:00:00Z",
-  "endTime": "2025-05-29T11:00:00Z",
+  "startTime": "2025-05-29T11:00:00Z",
+  "endTime": "2025-06-05T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Dirty Chasm",
-      "biome": "Dense Biozone",
-      "seed": 3582023511,
+      "name": "Colossal Return",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 3198923947,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Mactera Plague"
+          "primary": "Egg x4",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Parasites"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": null
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Crystal Scan x3",
-          "secondary": "Egg x2",
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Mammoth Land",
-      "biome": "Crystalline Caverns",
-      "seed": 2880990154,
+      "name": "Lucky Chasm",
+      "biome": "Sandblasted Corridors",
+      "seed": 1200678134,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (D)",
-          "anomaly": null,
-          "warning": "Mactera Plague"
-        },
-        {
-          "id": 2,
-          "primary": "Morkite x200",
+          "primary": "Egg x6",
           "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": "Rival Presence"
         },
         {
+          "id": 2,
+          "primary": "Crystal Scan x5",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Duck and Cover"
+        },
+        {
           "id": 3,
-          "primary": "Industrial Sabotage",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": "Rich Atmosphere",
+          "primary": "On-Site Refining",
+          "secondary": "Egg x2",
+          "anomaly": null,
           "warning": null
         }
       ]
