@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-06-12T11:00:00Z",
-  "endTime": "2025-06-19T11:00:00Z",
+  "startTime": "2025-06-19T11:00:00Z",
+  "endTime": "2025-06-26T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Broken Chasm",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 2232965647,
+      "name": "Xehn's Shelf",
+      "biome": "Magma Core",
+      "seed": 3636763666,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
-          "secondary": "Egg x2",
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x3",
-          "secondary": "Egg x2",
+          "primary": "Egg x6",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": "Elite Threat"
         },
         {
           "id": 3,
-          "primary": "Industrial Sabotage",
-          "secondary": "Crystal Scan x2",
+          "primary": "Crystal Scan x3",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Swarmageddon"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Covetous Blank",
+      "name": "Leaf Lover's Decay",
       "biome": "Fungus Bogs",
-      "seed": 368484350,
+      "seed": 3409514985,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Morkite Well x1",
+          "primary": "Dreadnought x2 (H+T)",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Morkite Well x1",
+          "primary": "Mule x2",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Ebonite Outbreak"
+          "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (H+T)",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Cave Leech Cluster"
+          "primary": "Escort Duty",
+          "secondary": "Morkite Well x1",
+          "anomaly": "Blood Sugar",
+          "warning": "Elite Threat"
         }
       ]
     }
