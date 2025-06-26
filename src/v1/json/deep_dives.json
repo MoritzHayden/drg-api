@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-06-19T11:00:00Z",
-  "endTime": "2025-06-26T11:00:00Z",
+  "startTime": "2025-06-26T11:00:00Z",
+  "endTime": "2025-07-03T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Xehn's Shelf",
-      "biome": "Magma Core",
-      "seed": 3636763666,
+      "name": "Secret Shelf",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 3415572850,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Aquarq x7",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": null,
+          "warning": "Haunted Cave"
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x200",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "Egg x6",
+          "id": 3,
+          "primary": "Egg x4",
           "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Elite Threat"
-        },
-        {
-          "id": 3,
-          "primary": "Crystal Scan x3",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Shield Disruption"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Leaf Lover's Decay",
-      "biome": "Fungus Bogs",
-      "seed": 3409514985,
+      "name": "Natural Claw",
+      "biome": "Salt Pits",
+      "seed": 3444745678,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (H+T)",
+          "primary": "Industrial Sabotage",
           "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Parasites"
+        },
+        {
+          "id": 2,
+          "primary": "Escort Duty",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Mactera Plague"
-        },
-        {
           "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "Morkite Well x1",
-          "anomaly": "Blood Sugar",
-          "warning": "Elite Threat"
+          "primary": "Crystal Scan x5",
+          "secondary": "Morkite x150",
+          "anomaly": "Low Gravity",
+          "warning": "Swarmageddon"
         }
       ]
     }
