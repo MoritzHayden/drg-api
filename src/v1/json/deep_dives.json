@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-07-03T11:00:00Z",
-  "endTime": "2025-07-10T11:00:00Z",
+  "startTime": "2025-07-10T11:00:00Z",
+  "endTime": "2025-07-17T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Crumbly Tomb",
-      "biome": "Salt Pits",
-      "seed": 939948355,
+      "name": "Hard Shelf",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 1106305980,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
+          "primary": "Dreadnought x2 (H+T)",
           "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Cave Leech Cluster"
+        },
+        {
+          "id": 2,
+          "primary": "Industrial Sabotage",
+          "secondary": "Mule x2",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Elite Threat"
-        },
-        {
           "id": 3,
-          "primary": "Morkite x250",
+          "primary": "Egg x4",
           "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Duck and Cover"
+          "anomaly": "Blood Sugar",
+          "warning": "Low Oxygen"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Blue Gate",
+      "name": "Rippled Darkness",
       "biome": "Hollow Bough",
-      "seed": 1437565412,
+      "seed": 4036489769,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
+          "primary": "Morkite x225",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x5",
-          "secondary": "Egg x2",
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (H+D)",
-          "secondary": "Egg x2",
+          "primary": "Egg x4",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Elite Threat"
         }
       ]
     }
