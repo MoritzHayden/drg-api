@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-07-24T11:00:00Z",
-  "endTime": "2025-07-31T11:00:00Z",
+  "startTime": "2025-07-31T11:00:00Z",
+  "endTime": "2025-08-07T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Meek Patrol",
-      "biome": "Dense Biozone",
-      "seed": 1959499031,
+      "name": "Natural Boneyard",
+      "biome": "Azure Weald",
+      "seed": 4055942707,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Morkite Well x1",
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Ebonite Outbreak"
+          "warning": "Low Oxygen"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Morkite x150",
+          "primary": "Crystal Scan x3",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": null
         },
         {
           "id": 3,
           "primary": "Aquarq x7",
-          "secondary": "Egg x2",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Parasites"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Blue Raid",
-      "biome": "Hollow Bough",
-      "seed": 3282056756,
+      "name": "Shattered Drop",
+      "biome": "Glacial Strata",
+      "seed": 1748385961,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
-          "secondary": "Mule x2",
+          "primary": "Mule x3",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Black Box",
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Haunted Cave"
         },
         {
           "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Crystal Scan x2",
+          "primary": "Escort Duty",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Ebonite Outbreak"
         }
       ]
     }
