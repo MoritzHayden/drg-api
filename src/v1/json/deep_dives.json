@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-08-07T11:00:00Z",
-  "endTime": "2025-08-14T11:00:00Z",
+  "startTime": "2025-08-14T11:00:00Z",
+  "endTime": "2025-08-21T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Noble Bedrock",
+      "name": "Desperate Wilderness",
       "biome": "Magma Core",
-      "seed": 1049554165,
+      "seed": 3380871983,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": null
+          "primary": "Crystal Scan x3",
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": "Elite Threat"
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x3",
+          "primary": "Morkite x200",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 3,
+          "primary": "Escort Duty",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Duck and Cover"
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Clean Gap",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 2210030218,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Morkite x250",
           "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Low Oxygen"
+        },
+        {
+          "id": 2,
+          "primary": "Dreadnought x2 (H+D)",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": "Swarmageddon"
         },
         {
           "id": 3,
           "primary": "Egg x6",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Regenerative Bugs"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Driller's Tongue",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 3908720494,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite x150",
-          "anomaly": null,
+          "secondary": "Black Box",
+          "anomaly": "Volatile Guts",
           "warning": null
-        },
-        {
-          "id": 2,
-          "primary": "Dreadnought x2 (D+H)",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Parasites"
-        },
-        {
-          "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (D)",
-          "anomaly": null,
-          "warning": "Haunted Cave"
         }
       ]
     }
