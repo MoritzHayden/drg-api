@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-08-21T11:00:00Z",
-  "endTime": "2025-08-28T11:00:00Z",
+  "startTime": "2025-08-28T11:00:00Z",
+  "endTime": "2025-09-04T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Karl's Den",
-      "biome": "Sandblasted Corridors",
-      "seed": 3288332150,
+      "name": "Broken Cavity",
+      "biome": "Glacial Strata",
+      "seed": 4110343589,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
+          "primary": "On-Site Refining",
           "secondary": "Dreadnought x1 (T)",
-          "anomaly": "Low Gravity",
-          "warning": "Elite Threat"
+          "anomaly": null,
+          "warning": "Exploder Infestation"
         },
         {
           "id": 2,
-          "primary": "Industrial Sabotage",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": null
+          "primary": "Mule x2",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": "Volatile Guts",
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "Egg x2",
+          "primary": "Dreadnought x2",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Colossal Honor",
-      "biome": "Fungus Bogs",
-      "seed": 2832676394,
+      "name": "Deadman's Hulrum",
+      "biome": "Hollow Bough",
+      "seed": 2213691822,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Duck and Cover"
+          "primary": "Morkite x250",
+          "secondary": "Crystal Scan x2",
+          "anomaly": "Critical Weakness",
+          "warning": "Low Oxygen"
         },
         {
           "id": 2,
-          "primary": "Aquarq x10",
-          "secondary": "Egg x2",
+          "primary": "Mule x2",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": null
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Morkite x150",
-          "anomaly": "Low Gravity",
-          "warning": "Haunted Cave"
+          "primary": "Egg x4",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Elite Threat"
         }
       ]
     }
