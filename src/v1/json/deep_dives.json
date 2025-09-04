@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-08-28T11:00:00Z",
-  "endTime": "2025-09-04T11:00:00Z",
+  "startTime": "2025-09-04T11:00:00Z",
+  "endTime": "2025-09-11T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Broken Cavity",
-      "biome": "Glacial Strata",
-      "seed": 4110343589,
+      "name": "Mad Wreck",
+      "biome": "Azure Weald",
+      "seed": 3050848360,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
+          "primary": "Mule x3",
+          "secondary": "Morkite Well x1",
+          "anomaly": "Blood Sugar",
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Dreadnought x1 (D)",
-          "anomaly": "Volatile Guts",
-          "warning": "Duck and Cover"
+          "primary": "Dreadnought x2 (D+T)",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Lethal Enemies"
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Mule x2",
+          "primary": "Morkite x250",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": null
+          "warning": "Parasites"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Deadman's Hulrum",
+      "name": "Feral Thunder",
       "biome": "Hollow Bough",
-      "seed": 2213691822,
+      "seed": 3144863739,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Low Oxygen"
+          "primary": "Morkite x200",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Duck and Cover"
         },
         {
           "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Aquarq x10",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Cave Leech Cluster"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Egg x4",
+          "primary": "Morkite x225",
           "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "anomaly": "Critical Weakness",
+          "warning": "Rival Presence"
         }
       ]
     }
