@@ -1,31 +1,31 @@
 {
-  "startTime": "2025-09-04T11:00:00Z",
-  "endTime": "2025-09-11T11:00:00Z",
+  "startTime": "2025-09-11T11:00:00Z",
+  "endTime": "2025-09-18T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Mad Wreck",
-      "biome": "Azure Weald",
-      "seed": 3050848360,
+      "name": "Buried Split",
+      "biome": "Hollow Bough",
+      "seed": 1708415002,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x3",
-          "secondary": "Morkite Well x1",
-          "anomaly": "Blood Sugar",
+          "primary": "Morkite x225",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
+          "primary": "Egg x6",
+          "secondary": "Morkite Well x1",
+          "anomaly": "Blood Sugar",
+          "warning": "Haunted Cave"
         },
         {
           "id": 3,
-          "primary": "Morkite x250",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Dreadnought x2 (D+T)",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": "Parasites"
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Feral Thunder",
-      "biome": "Hollow Bough",
-      "seed": 3144863739,
+      "name": "Evil Soil",
+      "biome": "Magma Core",
+      "seed": 592543339,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Morkite Well x1",
+          "primary": "Industrial Sabotage",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Ebonite Outbreak"
         },
         {
           "id": 2,
-          "primary": "Aquarq x10",
-          "secondary": "Black Box",
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": null
+          "warning": "Lethal Enemies"
         },
         {
           "id": 3,
-          "primary": "Morkite x225",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Rival Presence"
+          "primary": "On-Site Refining",
+          "secondary": "Morkite x150",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Elite Threat"
         }
       ]
     }
