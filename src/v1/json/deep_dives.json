@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-09-11T11:00:00Z",
-  "endTime": "2025-09-18T11:00:00Z",
+  "startTime": "2025-09-18T11:00:00Z",
+  "endTime": "2025-09-25T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Buried Split",
-      "biome": "Hollow Bough",
-      "seed": 1708415002,
+      "name": "Final Wealth",
+      "biome": "Crystalline Caverns",
+      "seed": 4155317469,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Egg x4",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Morkite Well x1",
-          "anomaly": "Blood Sugar",
-          "warning": "Haunted Cave"
+          "primary": "Crystal Scan x3",
+          "secondary": "Egg x2",
+          "anomaly": "Critical Weakness",
+          "warning": "Exploder Infestation"
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Morkite x150",
+          "primary": "Escort Duty",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Cave Leech Cluster"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Evil Soil",
-      "biome": "Magma Core",
-      "seed": 592543339,
+      "name": "Dim Covert",
+      "biome": "Fungus Bogs",
+      "seed": 428523547,
       "stages": [
         {
           "id": 1,
-          "primary": "Industrial Sabotage",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": null,
-          "warning": "Ebonite Outbreak"
+          "primary": "On-Site Refining",
+          "secondary": "Egg x2",
+          "anomaly": "Low Gravity",
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite x150",
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Lethal Enemies"
+          "warning": "Parasites"
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Morkite x150",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Elite Threat"
+          "primary": "Mule x3",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         }
       ]
     }
