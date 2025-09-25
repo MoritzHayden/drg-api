@@ -1,16 +1,16 @@
 {
-  "startTime": "2025-09-18T11:00:00Z",
-  "endTime": "2025-09-25T11:00:00Z",
+  "startTime": "2025-09-25T11:00:00Z",
+  "endTime": "2025-10-02T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Final Wealth",
-      "biome": "Crystalline Caverns",
-      "seed": 4155317469,
+      "name": "Weak Avalanche",
+      "biome": "Magma Core",
+      "seed": 105327808,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
+          "primary": "Aquarq x7",
           "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
@@ -18,45 +18,45 @@
         {
           "id": 2,
           "primary": "Crystal Scan x3",
-          "secondary": "Egg x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Exploder Infestation"
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Low Oxygen"
         },
         {
           "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "Mule x2",
+          "primary": "Egg x4",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Cave Leech Cluster"
+          "warning": "Ebonite Outbreak"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Dim Covert",
-      "biome": "Fungus Bogs",
-      "seed": 428523547,
+      "name": "Burning Axe",
+      "biome": "Azure Weald",
+      "seed": 1868093080,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Cave Leech Cluster"
+          "primary": "Industrial Sabotage",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Morkite x200",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Morkite Well x1",
+          "primary": "Escort Duty",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": null
         }
       ]
     }
