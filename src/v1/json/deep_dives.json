@@ -1,31 +1,31 @@
 {
-  "startTime": "2025-10-02T11:00:00Z",
-  "endTime": "2025-10-09T11:00:00Z",
+  "startTime": "2025-10-09T11:00:00Z",
+  "endTime": "2025-10-16T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Abandoned Scream",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 3730140114,
+      "name": "Imperfect Crosscut",
+      "biome": "Fungus Bogs",
+      "seed": 650882658,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Morkite x150",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Duck and Cover"
-        },
-        {
-          "id": 2,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite x150",
+          "primary": "Aquarq x7",
+          "secondary": "Egg x2",
           "anomaly": null,
           "warning": "Regenerative Bugs"
         },
         {
+          "id": 2,
+          "primary": "Egg x6",
+          "secondary": "Morkite Well x1",
+          "anomaly": "Blood Sugar",
+          "warning": "Exploder Infestation"
+        },
+        {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
+          "primary": "Mule x3",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Glowing Perfection",
-      "biome": "Sandblasted Corridors",
-      "seed": 1004560031,
+      "name": "Crying Outpost",
+      "biome": "Dense Biozone",
+      "seed": 1605866161,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x2",
-          "secondary": "Morkite Well x1",
+          "primary": "Industrial Sabotage",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
+          "primary": "Egg x4",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": null
+          "warning": "Parasites"
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (H+T)",
-          "secondary": "Morkite Well x1",
-          "anomaly": "Blood Sugar",
-          "warning": "Mactera Plague"
+          "primary": "Crystal Scan x5",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": null
         }
       ]
     }
