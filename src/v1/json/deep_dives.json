@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-10-16T11:00:00Z",
-  "endTime": "2025-10-23T11:00:00Z",
+  "startTime": "2025-10-23T11:00:00Z",
+  "endTime": "2025-10-30T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Sharp Breeze",
-      "biome": "Glacial Strata",
-      "seed": 2203679683,
+      "name": "Calm Interest",
+      "biome": "Dense Biozone",
+      "seed": 3441748415,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Regenerative Bugs"
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
         },
         {
           "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "Crystal Scan x2",
+          "primary": "Egg x4",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
+        },
+        {
+          "id": 3,
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Black Box",
+          "anomaly": "Rich Atmosphere",
+          "warning": null
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Duplicitous Ideal",
+      "biome": "Crystalline Caverns",
+      "seed": 3242525235,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Industrial Sabotage",
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Low Oxygen"
+        },
+        {
+          "id": 2,
+          "primary": "Aquarq x7",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
           "primary": "Egg x4",
-          "secondary": "Dreadnought x1 (D)",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
-          "warning": "Low Oxygen"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Bronze Jewel",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 3855795245,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Shield Disruption"
-        },
-        {
-          "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "Mule x2",
-          "anomaly": "Volatile Guts",
-          "warning": "Low Oxygen"
+          "warning": "Parasites"
         }
       ]
     }
