@@ -1,12 +1,12 @@
 {
-  "startTime": "2025-10-23T11:00:00Z",
-  "endTime": "2025-10-30T11:00:00Z",
+  "startTime": "2025-10-30T11:00:00Z",
+  "endTime": "2025-11-06T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
       "name": "Calm Interest",
       "biome": "Dense Biozone",
-      "seed": 3441748415,
+      "seed": 69536642,
       "stages": [
         {
           "id": 1,
@@ -35,7 +35,7 @@
       "type": "Elite Deep Dive",
       "name": "Duplicitous Ideal",
       "biome": "Crystalline Caverns",
-      "seed": 3242525235,
+      "seed": 357768271,
       "stages": [
         {
           "id": 1,
