@@ -4,59 +4,59 @@
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Calm Interest",
+      "name": "Fierce Cavity",
       "biome": "Dense Biozone",
       "seed": 2327340082,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
+          "primary": "On-Site Refining",
           "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": null
         },
         {
           "id": 2,
           "primary": "Egg x4",
-          "secondary": "Morkite x150",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Elite Threat"
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Black Box",
-          "anomaly": "Rich Atmosphere",
-          "warning": null
+          "primary": "On-Site Refining",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Lethal Enemies"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Duplicitous Ideal",
+      "name": "Burning Jewel",
       "biome": "Crystalline Caverns",
       "seed": 1574630446,
       "stages": [
         {
           "id": 1,
-          "primary": "Industrial Sabotage",
+          "primary": "Egg x6",
           "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Low Oxygen"
+          "anomaly": "Low Gravity",
+          "warning": "Haunted Cave"
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite Well x1",
+          "primary": "Industrial Sabotage",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Mule x2",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Elite Threat"
         }
       ]
     }
