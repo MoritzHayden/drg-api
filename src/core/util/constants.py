@@ -23,7 +23,7 @@ API_LICENSE_NAME: str = "MIT License"
 # Deep Dives
 DEEP_DIVE_METADATA_URL: str = "https://drg.ghostship.dk/events/deepdive"
 DEEP_DIVE_INFORMATION_URL: str = "https://docs.google.com/feeds/download/spreadsheets/Export?key" \
-                                 "=1cvRHDfmBKK8Ggmoga6A3PrlyBaunZpbQhZuy987gGKk&exportFormat=csv&gid=672452639"
+                                 "=1wkpjE1luqtchzrPCyw1vmioASpfV_iB1W5LgN7O_r_g&exportFormat=csv&gid=672452639"
 
 
 # Paths
