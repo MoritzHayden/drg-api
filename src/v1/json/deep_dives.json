@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-11-13T11:00:00Z",
-  "endTime": "2025-11-20T11:00:00Z",
+  "startTime": "2025-11-20T11:00:00Z",
+  "endTime": "2025-11-27T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Fierce Cavity",
-      "biome": "Dense Biozone",
-      "seed": 2327340082,
+      "name": "Dim Hole",
+      "biome": "Magma Core",
+      "seed": 2904828470,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
+          "primary": "Egg x6",
           "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Mule x2",
+          "primary": "Mule x3",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
+          "primary": "Crystal Scan x3",
           "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
+          "anomaly": "Critical Weakness",
+          "warning": "Cave Leech Cluster"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Burning Jewel",
-      "biome": "Crystalline Caverns",
-      "seed": 1574630446,
+      "name": "Leaf Lover's Catacomb",
+      "biome": "Sandblasted Corridors",
+      "seed": 2412489245,
       "stages": [
         {
           "id": 1,
           "primary": "Egg x6",
           "secondary": "Morkite x150",
-          "anomaly": "Low Gravity",
-          "warning": "Haunted Cave"
+          "anomaly": null,
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Industrial Sabotage",
-          "secondary": "Egg x2",
+          "primary": "Dreadnought x2 (D+H)",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Mule x2",
-          "secondary": "Morkite Well x1",
+          "primary": "Morkite x250",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Haunted Cave"
         }
       ]
     }
