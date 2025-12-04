@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-11-27T11:00:00Z",
-  "endTime": "2025-12-04T11:00:00Z",
+  "startTime": "2025-12-04T11:00:00Z",
+  "endTime": "2025-12-11T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Sacred Cellar",
-      "biome": "Fungus Bogs",
-      "seed": 1759812147,
+      "name": "Jagged Inland",
+      "biome": "Magma Core",
+      "seed": 729422366,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite x150",
+          "primary": "Morkite x200",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": null
         },
         {
           "id": 2,
           "primary": "On-Site Refining",
-          "secondary": "Black Box",
-          "anomaly": "Critical Weakness",
-          "warning": "Low Oxygen"
+          "secondary": "Morkite x150",
+          "anomaly": null,
+          "warning": "Haunted Cave"
         },
         {
           "id": 3,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": null
+          "primary": "Morkite x250",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Cave Leech Cluster"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Karl's Run",
-      "biome": "Hollow Bough",
-      "seed": 2403746099,
+      "name": "Wide Inferno",
+      "biome": "Salt Pits",
+      "seed": 1761960269,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
-          "secondary": "Mule x2",
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Aquarq x10",
-          "secondary": "Morkite Well x1",
+          "primary": "Morkite x225",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Rival Presence"
         },
         {
           "id": 3,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite Well x1",
-          "anomaly": "Blood Sugar",
-          "warning": "Cave Leech Cluster"
+          "primary": "Mule x2",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": "Volatile Guts",
+          "warning": "Mactera Plague"
         }
       ]
     }
