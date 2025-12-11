@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-12-04T11:00:00Z",
-  "endTime": "2025-12-11T11:00:00Z",
+  "startTime": "2025-12-11T11:00:00Z",
+  "endTime": "2025-12-18T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Jagged Inland",
-      "biome": "Magma Core",
-      "seed": 729422366,
+      "name": "Rancid Badland",
+      "biome": "Sandblasted Corridors",
+      "seed": 1944719473,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Crystal Scan x2",
+          "primary": "Dreadnought x2 (H+T)",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Morkite x150",
+          "primary": "Mule x3",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": "Exploder Infestation"
         },
         {
           "id": 3,
           "primary": "Morkite x250",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Cave Leech Cluster"
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Regenerative Bugs"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Wide Inferno",
+      "name": "Mythic Bottom",
       "biome": "Salt Pits",
-      "seed": 1761960269,
+      "seed": 1538974949,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Black Box",
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Mactera Plague"
         },
         {
           "id": 2,
-          "primary": "Morkite x225",
-          "secondary": "Crystal Scan x2",
+          "primary": "Mule x3",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": "Rival Presence"
         },
         {
           "id": 3,
-          "primary": "Mule x2",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Escort Duty",
+          "secondary": "Mule x2",
           "anomaly": "Volatile Guts",
-          "warning": "Mactera Plague"
+          "warning": null
         }
       ]
     }
