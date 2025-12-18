@@ -1,30 +1,30 @@
 {
-  "startTime": "2025-12-11T11:00:00Z",
-  "endTime": "2025-12-18T11:00:00Z",
+  "startTime": "2025-12-18T11:00:00Z",
+  "endTime": "2025-12-25T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Rancid Badland",
-      "biome": "Sandblasted Corridors",
-      "seed": 1944719473,
+      "name": "Great Pass",
+      "biome": "Hollow Bough",
+      "seed": 1233672495,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (H+T)",
-          "secondary": "Morkite x150",
+          "primary": "Morkite x250",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Egg x4",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Morkite x250",
+          "primary": "Mule x3",
           "secondary": "Egg x2",
           "anomaly": null,
           "warning": "Regenerative Bugs"
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Mythic Bottom",
-      "biome": "Salt Pits",
-      "seed": 1538974949,
+      "name": "Corrupt Pursuit",
+      "biome": "Magma Core",
+      "seed": 2498984922,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (T+D)",
-          "secondary": "Mule x2",
+          "primary": "Mule x2",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Mule x3",
+          "primary": "Egg x4",
           "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": "Low Oxygen"
         },
         {
           "id": 3,
           "primary": "Escort Duty",
-          "secondary": "Mule x2",
-          "anomaly": "Volatile Guts",
-          "warning": null
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         }
       ]
     }
