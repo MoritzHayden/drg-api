@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-12-18T11:00:00Z",
-  "endTime": "2025-12-25T11:00:00Z",
+  "startTime": "2025-12-25T11:00:00Z",
+  "endTime": "2026-01-01T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Great Pass",
+      "name": "Raging Hook",
       "biome": "Hollow Bough",
-      "seed": 1233672495,
+      "seed": 1646031516,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Black Box",
+          "primary": "Escort Duty",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Morkite Well x1",
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Exploder Infestation"
         },
         {
           "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Egg x2",
+          "primary": "Egg x6",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Elite Threat"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Corrupt Pursuit",
-      "biome": "Magma Core",
-      "seed": 2498984922,
+      "name": "Mammoth Valley",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 701822884,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x2",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Industrial Sabotage",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": null
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
           "primary": "Egg x4",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Low Oxygen"
+          "secondary": "Morkite Well x1",
+          "anomaly": "Blood Sugar",
+          "warning": "Elite Threat"
         },
         {
           "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "Crystal Scan x2",
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": null
         }
       ]
     }
