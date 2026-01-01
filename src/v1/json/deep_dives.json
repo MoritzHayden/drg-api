@@ -1,62 +1,62 @@
 {
-  "startTime": "2025-12-25T11:00:00Z",
-  "endTime": "2026-01-01T11:00:00Z",
+  "startTime": "2026-01-01T11:00:00Z",
+  "endTime": "2026-01-08T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Raging Hook",
-      "biome": "Hollow Bough",
-      "seed": 1646031516,
+      "name": "Empty Pit",
+      "biome": "Glacial Strata",
+      "seed": 928287696,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Morkite Well x1",
+          "primary": "On-Site Refining",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Escort Duty",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Ebonite Outbreak"
         },
         {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Duck and Cover"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Mammoth Valley",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 701822884,
+      "name": "Shining Thunder",
+      "biome": "Fungus Bogs",
+      "seed": 590291678,
       "stages": [
         {
           "id": 1,
-          "primary": "Industrial Sabotage",
-          "secondary": "Morkite Well x1",
+          "primary": "Egg x4",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Exploder Infestation"
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Morkite Well x1",
-          "anomaly": "Blood Sugar",
-          "warning": "Elite Threat"
+          "primary": "Morkite x250",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (T+D)",
-          "secondary": "Mule x2",
+          "primary": "Aquarq x10",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Duck and Cover"
         }
       ]
     }
