@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-01-15T11:00:00Z",
-  "endTime": "2026-01-22T11:00:00Z",
+  "startTime": "2026-01-22T11:00:00Z",
+  "endTime": "2026-01-29T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Useless Overlook",
-      "biome": "Glacial Strata",
-      "seed": 1789189041,
+      "name": "Gangrenous Drift",
+      "biome": "Fungus Bogs",
+      "seed": 197560258,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Morkite Well x1",
+          "primary": "Morkite x250",
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": "Shield Disruption"
+        },
+        {
+          "id": 2,
+          "primary": "Aquarq x7",
+          "secondary": "Egg x2",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "Industrial Sabotage",
-          "secondary": "Dreadnought x1 (D)",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Mactera Plague"
-        },
-        {
           "id": 3,
           "primary": "Egg x4",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "secondary": "Morkite x150",
+          "anomaly": "Low Gravity",
+          "warning": "Lethal Enemies"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Wicked Haunt",
-      "biome": "Magma Core",
-      "seed": 1573727389,
+      "name": "Rocky Summit",
+      "biome": "Crystalline Caverns",
+      "seed": 1646985007,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
+          "primary": "Egg x4",
           "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": "Duck and Cover"
         },
         {
           "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "primary": "Morkite x250",
+          "secondary": "Mule x2",
+          "anomaly": "Volatile Guts",
+          "warning": "Lethal Enemies"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Lethal Enemies"
+          "primary": "Mule x3",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
         }
       ]
     }
