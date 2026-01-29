@@ -1,24 +1,53 @@
 {
-  "startTime": "2026-01-22T11:00:00Z",
-  "endTime": "2026-01-29T11:00:00Z",
+  "startTime": "2026-01-29T11:00:00Z",
+  "endTime": "2026-02-05T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Gangrenous Drift",
-      "biome": "Fungus Bogs",
-      "seed": 197560258,
+      "name": "Corrupt Barrens",
+      "biome": "Azure Weald",
+      "seed": 1445526341,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Resinite Mass x3",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Cave Leech Cluster"
+        },
+        {
+          "id": 2,
+          "primary": "Egg x4",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 3,
+          "primary": "Aquarq x7",
+          "secondary": "Morkite x150",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Parasites"
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Tainted Well",
+      "biome": "Ossuary Depths",
+      "seed": 75841,
       "stages": [
         {
           "id": 1,
           "primary": "Morkite x250",
-          "secondary": "Mule x2",
-          "anomaly": null,
+          "secondary": "Crystal Scan x2",
+          "anomaly": "Critical Weakness",
           "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Egg x2",
+          "primary": "Aquarq x10",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         },
@@ -26,37 +55,8 @@
           "id": 3,
           "primary": "Egg x4",
           "secondary": "Morkite x150",
-          "anomaly": "Low Gravity",
-          "warning": "Lethal Enemies"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Rocky Summit",
-      "biome": "Crystalline Caverns",
-      "seed": 1646985007,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Egg x4",
-          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Duck and Cover"
-        },
-        {
-          "id": 2,
-          "primary": "Morkite x250",
-          "secondary": "Mule x2",
-          "anomaly": "Volatile Guts",
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Regenerative Bugs"
         }
       ]
     }

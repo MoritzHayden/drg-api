@@ -25,6 +25,7 @@ class Biome(str, Enum):
     AZURE_WEALD = "Azure Weald"
     MAGMA_CORE = "Magma Core"
     SANDBLASTED_CORRIDORS = "Sandblasted Corridors"
+    OSSUARY_DEPTHS = "Ossuary Depths"
 
 
 class Anomaly(str, Enum):
@@ -61,6 +62,8 @@ class Warning(str, Enum):
     RIVAL_PRESENCE = "Rival Presence"
     SHIELD_DISRUPTION = "Shield Disruption"
     SWARMAGEDDON = "Swarmageddon"
+    PIT_JAW_COLONY = "Pit Jaw Colony"
+    SCRAB_NESTING_GROUNDS = "Scrab Nesting Grounds"
 
 
 class Stage(BaseModel):
