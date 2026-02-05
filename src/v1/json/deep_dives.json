@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-01-29T11:00:00Z",
-  "endTime": "2026-02-05T11:00:00Z",
+  "startTime": "2026-02-05T11:00:00Z",
+  "endTime": "2026-02-12T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Corrupt Barrens",
-      "biome": "Azure Weald",
-      "seed": 1445526341,
+      "name": "Worthy Fear",
+      "biome": "Sandblasted Corridors",
+      "seed": 1143263398,
       "stages": [
         {
           "id": 1,
-          "primary": "Resinite Mass x3",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Cave Leech Cluster"
-        },
-        {
-          "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Black Box",
+          "primary": "Mule x2",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
         },
         {
+          "id": 2,
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Swarmageddon"
+        },
+        {
           "id": 3,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite x150",
-          "anomaly": "Rich Atmosphere",
-          "warning": "Parasites"
+          "primary": "Dreadnought x2 (H+D)",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Lethal Enemies"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Tainted Well",
-      "biome": "Ossuary Depths",
-      "seed": 75841,
+      "name": "Fragile Womb",
+      "biome": "Salt Pits",
+      "seed": 2862599469,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
+          "primary": "On-Site Refining",
           "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Shield Disruption"
+          "anomaly": null,
+          "warning": "Rival Presence"
         },
         {
           "id": 2,
-          "primary": "Aquarq x10",
-          "secondary": "Morkite x150",
-          "anomaly": null,
+          "primary": "Mule x2",
+          "secondary": "Egg x2",
+          "anomaly": "Low Gravity",
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Egg x4",
-          "secondary": "Morkite x150",
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Regenerative Bugs"
+          "warning": "Low Oxygen"
         }
       ]
     }
