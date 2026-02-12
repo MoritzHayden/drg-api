@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-02-05T11:00:00Z",
-  "endTime": "2026-02-12T11:00:00Z",
+  "startTime": "2026-02-12T11:00:00Z",
+  "endTime": "2026-02-19T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Worthy Fear",
-      "biome": "Sandblasted Corridors",
-      "seed": 1143263398,
+      "name": "Carnivorous Goods",
+      "biome": "Azure Weald",
+      "seed": 2107853411,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x2",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": null
+          "primary": "Egg x6",
+          "secondary": "Resinite Mass x1",
+          "anomaly": "Blood Sugar",
+          "warning": "Haunted Cave"
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Swarmageddon"
-        },
-        {
-          "id": 3,
-          "primary": "Dreadnought x2 (H+D)",
+          "primary": "On-Site Refining",
           "secondary": "Egg x2",
           "anomaly": null,
           "warning": "Lethal Enemies"
+        },
+        {
+          "id": 3,
+          "primary": "Resinite Mass x3",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Fragile Womb",
-      "biome": "Salt Pits",
-      "seed": 2862599469,
+      "name": "Cold Summit",
+      "biome": "Crystalline Caverns",
+      "seed": 1029261324,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Rival Presence"
-        },
-        {
-          "id": 2,
-          "primary": "Mule x2",
+          "primary": "Aquarq x7",
           "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
+          "anomaly": null,
           "warning": null
         },
         {
-          "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Dreadnought x1 (H)",
+          "id": 2,
+          "primary": "Morkite x250",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Shield Disruption"
+        },
+        {
+          "id": 3,
+          "primary": "Resinite Mass x4",
+          "secondary": "Egg x2",
+          "anomaly": null,
+          "warning": "Lethal Enemies"
         }
       ]
     }
