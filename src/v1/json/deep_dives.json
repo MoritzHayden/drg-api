@@ -1,60 +1,60 @@
 {
-  "startTime": "2026-03-05T11:00:00Z",
-  "endTime": "2026-03-12T11:00:00Z",
+  "startTime": "2026-03-12T11:00:00Z",
+  "endTime": "2026-03-19T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Titanic Soil",
-      "biome": "Azure Weald",
-      "seed": 457089522,
+      "name": "Imperfect Boneyard",
+      "biome": "Magma Core",
+      "seed": 2803076128,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x3",
-          "secondary": "Resinite Mass x1",
+          "primary": "Resinite Mass x4",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": "Swarmageddon"
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite x150",
+          "anomaly": "Low Gravity",
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Dreadnought x2 (H+D)",
-          "secondary": "Morkite Well x1",
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": "Scrab Nesting Grounds"
+          "warning": "Exploder Infestation"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Exposed Chasm",
-      "biome": "Crystalline Caverns",
-      "seed": 3541171689,
+      "name": "Wicked Face",
+      "biome": "Salt Pits",
+      "seed": 2481951781,
       "stages": [
         {
           "id": 1,
-          "primary": "Industrial Sabotage",
-          "secondary": "Mule x2",
+          "primary": "Crystal Scan x3",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Elite Threat"
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x5",
+          "primary": "Morkite x200",
           "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": "Parasites"
         },
         {
           "id": 3,
-          "primary": "On-Site Refining",
-          "secondary": "Crystal Scan x2",
+          "primary": "Crystal Scan x5",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": "Swarmageddon"
         }
