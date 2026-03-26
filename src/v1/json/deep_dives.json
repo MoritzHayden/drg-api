@@ -1,31 +1,31 @@
 {
-  "startTime": "2026-03-19T11:00:00Z",
-  "endTime": "2026-03-26T11:00:00Z",
+  "startTime": "2026-03-26T11:00:00Z",
+  "endTime": "2026-04-02T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Loud Thickening",
-      "biome": "Azure Weald",
-      "seed": 2978113524,
+      "name": "Spiked Sleep",
+      "biome": "Glacial Strata",
+      "seed": 3307006545,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Scrab Nesting Grounds"
+          "primary": "Mule x3",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         },
         {
           "id": 2,
-          "primary": "Mule x2",
-          "secondary": "Morkite Well x1",
+          "primary": "Morkite x250",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Resinite Mass x4",
-          "secondary": "Mule x2",
+          "primary": "Crystal Scan x3",
+          "secondary": "Egg x2",
           "anomaly": null,
           "warning": null
         }
@@ -33,22 +33,22 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Total Split",
-      "biome": "Sandblasted Corridors",
-      "seed": 1209405184,
+      "name": "Shattered Citadel",
+      "biome": "Dense Biozone",
+      "seed": 4083530054,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x250",
-          "secondary": "Mule x2",
+          "primary": "Aquarq x7",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Exploder Infestation"
         },
         {
           "id": 2,
-          "primary": "Egg x4",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
+          "primary": "Crystal Scan x3",
+          "secondary": "Egg x2",
+          "anomaly": null,
           "warning": null
         },
         {
@@ -56,7 +56,7 @@
           "primary": "Mule x3",
           "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Shield Disruption"
         }
       ]
     }
