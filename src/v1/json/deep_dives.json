@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-04-09T11:00:00Z",
-  "endTime": "2026-04-16T11:00:00Z",
+  "startTime": "2026-04-16T11:00:00Z",
+  "endTime": "2026-04-23T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Ranger's Overhang",
-      "biome": "Ossuary Depths",
-      "seed": 1754729537,
+      "name": "Decayed Mouth",
+      "biome": "Magma Core",
+      "seed": 4010970834,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Resinite Mass x1",
-          "anomaly": "Blood Sugar",
-          "warning": null
+          "primary": "Mule x2",
+          "secondary": "Morkite Well x1",
+          "anomaly": "Critical Weakness",
+          "warning": "Duck and Cover"
         },
         {
           "id": 2,
           "primary": "Crystal Scan x3",
-          "secondary": "Egg x2",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Industrial Sabotage",
-          "secondary": "Dreadnought x1 (D)",
+          "primary": "Resinite Mass x4",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Ebonite Outbreak"
+          "warning": "Low Oxygen"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Crumbly Sleep",
+      "name": "Raging Outpost",
       "biome": "Azure Weald",
-      "seed": 1406824146,
+      "seed": 2658110056,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Volatile Guts",
-          "warning": "Swarmageddon"
+          "primary": "Crystal Scan x5",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Scrab Nesting Grounds"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
-          "anomaly": null,
-          "warning": "Mactera Plague"
+          "primary": "Industrial Sabotage",
+          "secondary": "2 Eggs",
+          "anomaly": "Low Gravity",
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Egg x4",
+          "primary": "Egg x6",
           "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Mactera Plague"
         }
       ]
     }
