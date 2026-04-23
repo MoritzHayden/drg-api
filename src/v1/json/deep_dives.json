@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-04-16T11:00:00Z",
-  "endTime": "2026-04-23T11:00:00Z",
+  "startTime": "2026-04-23T11:00:00Z",
+  "endTime": "2026-04-30T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Decayed Mouth",
-      "biome": "Magma Core",
-      "seed": 4010970834,
+      "name": "Mythic Bluff",
+      "biome": "Azure Weald",
+      "seed": 36953931,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x2",
-          "secondary": "Morkite Well x1",
-          "anomaly": "Critical Weakness",
-          "warning": "Duck and Cover"
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (H)",
+          "anomaly": "Low Gravity",
+          "warning": "Parasites"
         },
         {
           "id": 2,
-          "primary": "Crystal Scan x3",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Egg x4",
+          "secondary": "Morkite x150",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Resinite Mass x4",
-          "secondary": "Morkite x150",
+          "primary": "Morkite x200",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
-          "warning": "Low Oxygen"
+          "warning": "Scrab Nesting Grounds"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Raging Outpost",
-      "biome": "Azure Weald",
-      "seed": 2658110056,
+      "name": "Dirty Face",
+      "biome": "Sandblasted Corridors",
+      "seed": 4266313429,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x5",
-          "secondary": "Black Box",
+          "primary": "Mule x2",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Scrab Nesting Grounds"
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "Industrial Sabotage",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Duck and Cover"
+          "primary": "On-Site Refining",
+          "secondary": "Resinite Mass x1",
+          "anomaly": "Blood Sugar",
+          "warning": "Parasites"
         },
         {
           "id": 3,
-          "primary": "Egg x6",
+          "primary": "Morkite x200",
           "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Exploder Infestation"
         }
       ]
     }
