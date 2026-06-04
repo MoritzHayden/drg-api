@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-05-28T11:00:00Z",
-  "endTime": "2026-06-04T11:00:00Z",
+  "startTime": "2026-06-04T11:00:00Z",
+  "endTime": "2026-06-11T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Pure Sadness",
-      "biome": "Hollow Bough",
-      "seed": 2466797027,
+      "name": "Awful Catacomb",
+      "biome": "Fungus Bogs",
+      "seed": 3065975004,
       "stages": [
         {
           "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Crystal Scan x2",
+          "primary": "Egg x6",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "Dreadnought x2 (T+H)",
-          "secondary": "Resinite Mass x1",
+          "primary": "Mule x3",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": null
         },
         {
           "id": 3,
-          "primary": "Morkite x250",
-          "secondary": "Mule x2",
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Pit Jaw Colony"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Fool's Avalanche",
-      "biome": "Fungus Bogs",
-      "seed": 3693016316,
+      "name": "Natural Roof",
+      "biome": "Dense Biozone",
+      "seed": 3929407202,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (D+T)",
-          "secondary": "Crystal Scan x2",
+          "primary": "Escort Duty",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Lethal Enemies"
         },
         {
           "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Crystal Scan x5",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Pit Jaw Colony"
+          "warning": null
         },
         {
           "id": 3,
-          "primary": "Escort Duty",
-          "secondary": "Morkite x150",
+          "primary": "Aquarq x10",
+          "secondary": "Resinite Mass x1",
           "anomaly": null,
-          "warning": null
+          "warning": "Duck and Cover"
         }
       ]
     }
