@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-06-04T11:00:00Z",
-  "endTime": "2026-06-11T11:00:00Z",
+  "startTime": "2026-06-11T11:00:00Z",
+  "endTime": "2026-06-18T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Awful Catacomb",
-      "biome": "Fungus Bogs",
-      "seed": 3065975004,
+      "name": "Crying Arm",
+      "biome": "Sandblasted Corridors",
+      "seed": 1050971466,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x6",
+          "primary": "Crystal Scan x3",
+          "secondary": "Resinite Mass x1",
+          "anomaly": null,
+          "warning": "Pit Jaw Colony"
+        },
+        {
+          "id": 2,
+          "primary": "Escort Duty",
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": "Cave Leech Cluster"
+        },
+        {
+          "id": 3,
+          "primary": "Aquarq x7",
+          "secondary": "Egg x2",
+          "anomaly": "Low Gravity",
+          "warning": null
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Frozen Badland",
+      "biome": "Dense Biozone",
+      "seed": 1754193291,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Crystal Scan x3",
           "secondary": "Morkite x150",
           "anomaly": null,
           "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
-          "primary": "Mule x3",
+          "primary": "Morkite x200",
           "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": null
+          "anomaly": "Critical Weakness",
+          "warning": "Exploder Infestation"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Black Box",
-          "anomaly": null,
-          "warning": "Pit Jaw Colony"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Natural Roof",
-      "biome": "Dense Biozone",
-      "seed": 3929407202,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Escort Duty",
-          "secondary": "Egg x2",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 2,
           "primary": "Crystal Scan x5",
           "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
-        },
-        {
-          "id": 3,
-          "primary": "Aquarq x10",
-          "secondary": "Resinite Mass x1",
-          "anomaly": null,
-          "warning": "Duck and Cover"
+          "warning": "Ebonite Outbreak"
         }
       ]
     }
