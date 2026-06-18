@@ -1,59 +1,59 @@
 {
-  "startTime": "2026-06-11T11:00:00Z",
-  "endTime": "2026-06-18T11:00:00Z",
+  "startTime": "2026-06-18T11:00:00Z",
+  "endTime": "2026-06-25T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Crying Arm",
-      "biome": "Sandblasted Corridors",
-      "seed": 1050971466,
+      "name": "Solid Overhang",
+      "biome": "Crystalline Caverns",
+      "seed": 2849435724,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Resinite Mass x1",
+          "primary": "Aquarq x7",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": "Pit Jaw Colony"
         },
         {
           "id": 2,
-          "primary": "Escort Duty",
-          "secondary": "Mule x2",
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Black Box",
           "anomaly": null,
           "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Aquarq x7",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
+          "primary": "Escort Duty",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
           "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Frozen Badland",
-      "biome": "Dense Biozone",
-      "seed": 1754193291,
+      "name": "Forsaken Descent",
+      "biome": "Magma Core",
+      "seed": 3377728062,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite x150",
+          "primary": "Dreadnought x2 (H+D)",
+          "secondary": "Egg x2",
           "anomaly": null,
           "warning": "Regenerative Bugs"
         },
         {
           "id": 2,
           "primary": "Morkite x200",
-          "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Exploder Infestation"
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": "Low Gravity",
+          "warning": "Elite Threat"
         },
         {
           "id": 3,
-          "primary": "Crystal Scan x5",
+          "primary": "Egg x4",
           "secondary": "Black Box",
           "anomaly": null,
           "warning": "Ebonite Outbreak"
