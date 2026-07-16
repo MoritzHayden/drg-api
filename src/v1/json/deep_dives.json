@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-07-09T11:00:00Z",
-  "endTime": "2026-07-16T11:00:00Z",
+  "startTime": "2026-07-16T11:00:00Z",
+  "endTime": "2026-07-23T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Bleak Derail",
-      "biome": "Crystalline Caverns",
-      "seed": 3193882589,
+      "name": "High Cover",
+      "biome": "Hollow Bough",
+      "seed": 1279360544,
       "stages": [
         {
           "id": 1,
-          "primary": "Aquarq x7",
-          "secondary": "Resinite Mass x1",
-          "anomaly": "Blood Sugar",
+          "primary": "Morkite x200",
+          "secondary": "Black Box",
+          "anomaly": null,
           "warning": null
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Egg x4",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite Well x1",
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Swarmageddon"
+          "warning": "Lethal Enemies"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Duplicitous End",
-      "biome": "Fungus Bogs",
-      "seed": 3759276335,
+      "name": "Covetous Bed",
+      "biome": "Magma Core",
+      "seed": 1594238902,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Mule x2",
+          "primary": "Dreadnought x2 (H+D)",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Mactera Plague"
+          "warning": "Exploder Infestation"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Morkite Well x1",
+          "primary": "Escort Duty",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": null
+          "warning": "Ebonite Outbreak"
         },
         {
           "id": 3,
           "primary": "Aquarq x7",
-          "secondary": "Resinite Mass x1",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Rival Presence"
+          "warning": "Elite Threat"
         }
       ]
     }
