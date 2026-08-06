@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-07-30T11:00:00Z",
-  "endTime": "2026-08-06T11:00:00Z",
+  "startTime": "2026-08-06T11:00:00Z",
+  "endTime": "2026-08-13T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Deep Land",
-      "biome": "Magma Core",
-      "seed": 1941888720,
+      "name": "Awful Cap",
+      "biome": "Salt Pits",
+      "seed": 244797,
       "stages": [
         {
           "id": 1,
-          "primary": "Mule x3",
-          "secondary": "Resinite Mass x1",
+          "primary": "Dreadnought x2 (D+H)",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Ebonite Outbreak"
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x225",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 2,
-          "primary": "Crystal Scan x3",
-          "secondary": "Resinite Mass x1",
-          "anomaly": null,
-          "warning": "Pit Jaw Colony"
-        },
-        {
           "id": 3,
-          "primary": "Egg x6",
-          "secondary": "Black Box",
+          "primary": "INdustrial Sabotage",
+          "secondary": "Mule x2",
           "anomaly": null,
-          "warning": "Scrab Nesting Grounds"
+          "warning": "Exploder Infestation"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Broken Blade",
-      "biome": "Sandblasted Corridors",
-      "seed": 1663990719,
+      "name": "Evil Delight",
+      "biome": "Azure Weald",
+      "seed": 2511280544,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x225",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Crystal Scan x3",
+          "secondary": "Morkite x150",
           "anomaly": null,
-          "warning": "Haunted Cave"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
+          "primary": "Dreadnought x2 (D+T)",
           "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
+          "primary": "Egg x6",
           "secondary": "Crystal Scan x2",
-          "anomaly": "Critical Weakness",
-          "warning": "Rival Presence"
+          "anomaly": null,
+          "warning": "Swarmageddon"
         }
       ]
     }
