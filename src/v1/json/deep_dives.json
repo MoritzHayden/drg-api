@@ -4,8 +4,8 @@
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "UNKNOWN",
-      "biome": "UNKNOWN",
+      "name": "Awful Cap",
+      "biome": "Salt Pits",
       "seed": 3036738777,
       "stages": [
         {
@@ -33,8 +33,8 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "UNKNOWN",
-      "biome": "UNKNOWN",
+      "name": "Evil Delight",
+      "biome": "Azure Weald",
       "seed": 894394554,
       "stages": [
         {
