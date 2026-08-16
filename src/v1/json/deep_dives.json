@@ -1,10 +1,10 @@
 {
   "startTime": "2026-08-13T11:00:00Z",
-  "endTime": "2026-08-21T11:00:00Z",
+  "endTime": "2026-08-20T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Awful Cap",
+      "name": "First Caves",
       "biome": "Salt Pits",
       "seed": 3036738777,
       "stages": [
@@ -33,13 +33,13 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Evil Delight",
-      "biome": "Azure Weald",
+      "name": "Broken Lodge",
+      "biome": "Fungus Bogs",
       "seed": 894394554,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x4",
+          "primary": "Resinite Mass x4",
           "secondary": "Mule x2",
           "anomaly": null,
           "warning": "Shield Disruption"
