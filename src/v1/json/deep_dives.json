@@ -1,60 +1,60 @@
 {
-  "startTime": "2026-08-27T11:00:00Z",
-  "endTime": "2026-09-03T11:00:00Z",
+  "startTime": "2026-09-03T11:00:00Z",
+  "endTime": "2026-09-10T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Rocky Wilderness",
-      "biome": "Azure Weald",
-      "seed": 996140644,
+      "name": "Bright Ravine",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 2791085705,
       "stages": [
         {
           "id": 1,
-          "primary": "On-Site Refining",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Cave Leech Cluster"
-        },
-        {
-          "id": 2,
-          "primary": "Aquarq x7",
-          "secondary": "Morkite Well x1",
+          "primary": "Egg x4",
+          "secondary": "Dreadnought x1 (H)",
           "anomaly": null,
           "warning": null
         },
         {
-          "id": 3,
-          "primary": "Resinite Mass x3",
-          "secondary": "Mule x2",
+          "id": 2,
+          "primary": "Morkite x225",
+          "secondary": "Crystal Scan x2",
           "anomaly": null,
+          "warning": "Elite Threat"
+        },
+        {
+          "id": 3,
+          "primary": "Industrial Sabotage",
+          "secondary": "Morkite x150",
+          "anomaly": "Low Gravity",
           "warning": "Shield Disruption"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Scarred Pursuit",
-      "biome": "Sandblasted Corridors",
-      "seed": 1779728118,
+      "name": "Pale Bottom",
+      "biome": "Magma Core",
+      "seed": 3322316356,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Egg x2",
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Duck and Cover"
         },
         {
           "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Mule x3",
+          "secondary": "Egg x2",
           "anomaly": "Low Gravity",
-          "warning": "Rival Presence"
+          "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Crystal Scan x2",
+          "primary": "Egg x6",
+          "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": null
         }
