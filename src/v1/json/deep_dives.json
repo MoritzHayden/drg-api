@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-09-03T11:00:00Z",
-  "endTime": "2026-09-10T11:00:00Z",
+  "startTime": "2026-09-10T11:00:00Z",
+  "endTime": "2026-09-17T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Bright Ravine",
-      "biome": "Radioactive Exclusion Zone",
-      "seed": 2791085705,
+      "name": "Petrified Doom",
+      "biome": "Crystalline Caverns",
+      "seed": 1093644635,
       "stages": [
         {
           "id": 1,
-          "primary": "Egg x4",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Morkite x200",
+          "secondary": "Resinite Mass x1",
           "anomaly": null,
-          "warning": null
+          "warning": "Ebonite Outbreak"
         },
         {
           "id": 2,
-          "primary": "Morkite x225",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "primary": "Industrial Sabotage",
+          "secondary": "Egg x2",
+          "anomaly": "Low Gravity",
+          "warning": "Duck and Cover"
         },
         {
           "id": 3,
-          "primary": "Industrial Sabotage",
-          "secondary": "Morkite x150",
-          "anomaly": "Low Gravity",
-          "warning": "Shield Disruption"
+          "primary": "Mule x3",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": null,
+          "warning": null
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Pale Bottom",
-      "biome": "Magma Core",
-      "seed": 3322316356,
+      "name": "Raw Eclipse",
+      "biome": "Dense Biozone",
+      "seed": 2577288006,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (T+D)",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Duck and Cover"
-        },
-        {
-          "id": 2,
-          "primary": "Mule x3",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Mactera Plague"
-        },
-        {
-          "id": 3,
-          "primary": "Egg x6",
+          "primary": "Crystal Scan x3",
           "secondary": "Dreadnought x1 (T)",
           "anomaly": null,
           "warning": null
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x250",
+          "secondary": "Resinite Mass x1",
+          "anomaly": null,
+          "warning": "Scrab Nesting Grounds"
+        },
+        {
+          "id": 3,
+          "primary": "Aquarq x10",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Shield Disruption"
         }
       ]
     }
