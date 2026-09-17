@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-09-10T11:00:00Z",
-  "endTime": "2026-09-17T11:00:00Z",
+  "startTime": "2026-09-17T11:00:00Z",
+  "endTime": "2026-09-24T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Petrified Doom",
-      "biome": "Crystalline Caverns",
-      "seed": 1093644635,
+      "name": "Crumbling Cavity",
+      "biome": "Fungus Bogs",
+      "seed": 3683351445,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Resinite Mass x1",
+          "primary": "Dreadnought x2 (T+H)",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Ebonite Outbreak"
+          "warning": null
         },
         {
           "id": 2,
-          "primary": "Industrial Sabotage",
-          "secondary": "Egg x2",
-          "anomaly": "Low Gravity",
-          "warning": "Duck and Cover"
+          "primary": "Egg x4",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Swarmageddon"
         },
         {
           "id": 3,
-          "primary": "Mule x3",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": null,
-          "warning": null
+          "primary": "Industrial Sabotage",
+          "secondary": "Mule x2",
+          "anomaly": "Volatile Guts",
+          "warning": "Lethal Enemies"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Raw Eclipse",
-      "biome": "Dense Biozone",
-      "seed": 2577288006,
+      "name": "Natural Trail",
+      "biome": "Magma Core",
+      "seed": 1426566949,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Dreadnought x1 (T)",
+          "primary": "Crystal Scan x5",
+          "secondary": "Resinite Mass x1",
           "anomaly": null,
-          "warning": null
+          "warning": "Pit Jaw Colony"
         },
         {
           "id": 2,
-          "primary": "Morkite x250",
-          "secondary": "Resinite Mass x1",
-          "anomaly": null,
-          "warning": "Scrab Nesting Grounds"
+          "primary": "Egg x4",
+          "secondary": "Dreadnought x1 (D)",
+          "anomaly": "Low Gravity",
+          "warning": "Parasites"
         },
         {
           "id": 3,
-          "primary": "Aquarq x10",
-          "secondary": "Crystal Scan x2",
+          "primary": "Morkite x200",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Shield Disruption"
+          "warning": null
         }
       ]
     }
