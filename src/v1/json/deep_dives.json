@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-09-24T11:00:00Z",
-  "endTime": "2026-10-01T11:00:00Z",
+  "startTime": "2026-10-01T11:00:00Z",
+  "endTime": "2026-10-08T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Calm Run",
-      "biome": "Glacial Strata",
-      "seed": 83950626,
+      "name": "Dirty Void",
+      "biome": "Radioactive Exclusion Zone",
+      "seed": 1871821601,
       "stages": [
         {
           "id": 1,
-          "primary": "Resinite Mass x3",
-          "secondary": "Morkite x150",
+          "primary": "Crystal Scan x3",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": null
+          "warning": "Cave Leech Cluster"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
+          "primary": "Morkite x250",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Regenerative Bugs"
+        },
+        {
+          "id": 3,
+          "primary": "Resinite Mass x4",
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": null
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Cimmerian Honor",
+      "biome": "Fungus Bogs",
+      "seed": 924950034,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "On-Site Refining",
+          "secondary": "Dreadnought x1 (T)",
+          "anomaly": "Rich Atmosphere",
+          "warning": "Rival Presence"
+        },
+        {
+          "id": 2,
+          "primary": "Crystal Scan x5",
           "secondary": "Mule x2",
           "anomaly": null,
           "warning": "Mactera Plague"
         },
         {
           "id": 3,
-          "primary": "Crystal Scan x3",
-          "secondary": "Dreadnought x1 (H)",
+          "primary": "Escort Duty",
+          "secondary": "Egg x2",
           "anomaly": null,
-          "warning": "Parasites"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Creeping Desert",
-      "biome": "Salt Pits",
-      "seed": 7542852,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Resinite Mass x1",
-          "anomaly": null,
-          "warning": "Pit Jaw Colony"
-        },
-        {
-          "id": 2,
-          "primary": "Morkite x225",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Swarmageddon"
-        },
-        {
-          "id": 3,
-          "primary": "Crystal Scan x5",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Lethal Enemies"
         }
       ]
     }
