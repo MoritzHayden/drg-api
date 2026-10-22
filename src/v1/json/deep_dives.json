@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-10-15T11:00:00Z",
-  "endTime": "2026-10-22T11:00:00Z",
+  "startTime": "2026-10-22T11:00:00Z",
+  "endTime": "2026-10-29T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Mythic Wasteland",
-      "biome": "Crystalline Caverns",
-      "seed": 3216763214,
+      "name": "Big Breach",
+      "biome": "Ossuary Depths",
+      "seed": 3774633830,
       "stages": [
         {
           "id": 1,
-          "primary": "Morkite x200",
-          "secondary": "Crystal Scan x2",
-          "anomaly": null,
-          "warning": null
-        },
-        {
-          "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (T)",
-          "anomaly": null,
-          "warning": "Exploder Infestation"
-        },
-        {
-          "id": 3,
           "primary": "Escort Duty",
           "secondary": "Egg x2",
           "anomaly": null,
           "warning": "Regenerative Bugs"
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x200",
+          "secondary": "Mule x2",
+          "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 3,
+          "primary": "Crystal Scan x3",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Cave Leech Cluster"
         }
       ]
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Cruel Cover",
-      "biome": "Azure Weald",
-      "seed": 2526531287,
+      "name": "Solitary Helix",
+      "biome": "Hollow Bough",
+      "seed": 2737584225,
       "stages": [
         {
           "id": 1,
-          "primary": "Crystal Scan x3",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Lethal Enemies"
-        },
-        {
-          "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Resinite Mass x1",
-          "anomaly": null,
+          "primary": "Morkite x200",
+          "secondary": "Crystal Scan x2",
+          "anomaly": "Critical Weakness",
           "warning": "Pit Jaw Colony"
         },
         {
-          "id": 3,
-          "primary": "Dreadnought x2 (H+T)",
-          "secondary": "Morkite x150",
+          "id": 2,
+          "primary": "On-Site Refining",
+          "secondary": "Resinite Mass x1",
           "anomaly": null,
-          "warning": "Parasites"
+          "warning": "Scrab Nesting Grounds"
+        },
+        {
+          "id": 3,
+          "primary": "Morkite x200",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Swarmageddon"
         }
       ]
     }
