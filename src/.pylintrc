@@ -50,7 +50,7 @@ ignore=CVS
 
 # Add files or directories matching the regular expressions patterns to the
 # ignore-list. The regex matches against paths and can be in Posix or Windows
-# format. Because '\\' represents the directory delimiter on Windows systems,
+# format. Because '\' represents the directory delimiter on Windows systems,
 # it can't be used as an escape character.
 ignore-paths=
 
@@ -67,7 +67,8 @@ ignored-modules=
 
 # Python code to execute, usually for sys.path manipulation such as
 # pygtk.require().
-init-hook="from pylint.config import find_pylintrc; import os, sys; sys.path.append(os.path.dirname(find_pylintrc()))"
+# Keep the project root on PYTHONPATH without depending on removed Pylint APIs.
+init-hook="import os, sys; sys.path.insert(0, os.getcwd())"
 
 # Use multiple processes to speed up Pylint. Specifying 0 will auto-detect the
 # number of processors available to use, and will cap the count on Windows to
@@ -117,25 +118,23 @@ unsafe-load-any-extension=no
 argument-naming-style=snake_case
 
 # Regular expression matching correct argument names. Overrides argument-
-# naming-style. If left empty, argument names will be checked with the set
-# naming style.
+# naming-style. If left empty, argument names will be checked with the set naming style.
 #argument-rgx=
 
 # Naming style matching correct attribute names.
 attr-naming-style=snake_case
 
 # Regular expression matching correct attribute names. Overrides attr-naming-
-# style. If left empty, attribute names will be checked with the set naming
-# style.
+# style. If left empty, attribute names will be checked with the set naming style.
 #attr-rgx=
 
 # Bad variable names which should always be refused, separated by a comma.
 bad-names=foo,
-          bar,
-          baz,
-          toto,
-          tutu,
-          tata
+           bar,
+           baz,
+           toto,
+           tutu,
+           tata
 
 # Bad variable names regexes, separated by a comma. If names match any regex,
 # they will always be refused
@@ -145,16 +144,14 @@ bad-names-rgxs=
 class-attribute-naming-style=any
 
 # Regular expression matching correct class attribute names. Overrides class-
-# attribute-naming-style. If left empty, class attribute names will be checked
-# with the set naming style.
+# attribute-naming-style. If left empty, class attribute names will be checked with the set naming style.
 #class-attribute-rgx=
 
 # Naming style matching correct class constant names.
 class-const-naming-style=UPPER_CASE
 
 # Regular expression matching correct class constant names. Overrides class-
-# const-naming-style. If left empty, class constant names will be checked with
-# the set naming style.
+# const-naming-style. If left empty, class constant names will be checked with the set naming style.
 #class-const-rgx=
 
 # Naming style matching correct class names.
@@ -186,15 +183,15 @@ function-naming-style=snake_case
 
 # Good variable names which should always be accepted, separated by a comma.
 good-names=e,
-           f,
-           i,
-           j,
-           k,
-           dd,
-           edd,
-           ex,
-           Run,
-           _
+            f,
+            i,
+            j,
+            k,
+            dd,
+            edd,
+            ex,
+            Run,
+            _
 
 # Good variable names regexes, separated by a comma. If names match any regex,
 # they will always be accepted
@@ -207,8 +204,7 @@ include-naming-hint=no
 inlinevar-naming-style=any
 
 # Regular expression matching correct inline iteration names. Overrides
-# inlinevar-naming-style. If left empty, inline iteration names will be checked
-# with the set naming style.
+# inlinevar-naming-style. If left empty, inline iteration names will be checked with the set naming style.
 #inlinevar-rgx=
 
 # Naming style matching correct method names.
@@ -262,10 +258,10 @@ check-protected-access-in-special-methods=no
 
 # List of method names used to declare (i.e. assign) instance attributes.
 defining-attr-methods=__init__,
-                      __new__,
-                      setUp,
-                      asyncSetUp,
-                      __post_init__
+                       __new__,
+                       setUp,
+                       asyncSetUp,
+                       __post_init__
 
 # List of member names, which should be excluded from the protected access
 # warning.
@@ -411,10 +407,10 @@ logging-modules=logging
 # all. Valid levels: HIGH, CONTROL_FLOW, INFERENCE, INFERENCE_FAILURE,
 # UNDEFINED.
 confidence=HIGH,
-           CONTROL_FLOW,
-           INFERENCE,
-           INFERENCE_FAILURE,
-           UNDEFINED
+            CONTROL_FLOW,
+            INFERENCE,
+            INFERENCE_FAILURE,
+            UNDEFINED
 
 # Disable the message, report, category or checker with the given id(s). You
 # can either give multiple identifiers separated by comma (,) or put this
@@ -426,14 +422,14 @@ confidence=HIGH,
 # no Warning level messages displayed, use "--disable=all --enable=classes
 # --disable=W".
 disable=missing-module-docstring,
-        raw-checker-failed,
-        bad-inline-option,
-        locally-disabled,
-        file-ignored,
-        suppressed-message,
-        useless-suppression,
-        deprecated-pragma,
-        use-symbolic-message-instead
+         raw-checker-failed,
+         bad-inline-option,
+         locally-disabled,
+         file-ignored,
+         suppressed-message,
+         useless-suppression,
+         deprecated-pragma,
+         use-symbolic-message-instead
 
 # Enable the message, report, category or checker with the given id(s). You can
 # either give multiple identifier separated by comma (,) or put this option
@@ -453,8 +449,8 @@ timeout-methods=requests.api.delete,requests.api.get,requests.api.head,requests.
 
 # List of note tags to take in consideration, separated by a comma.
 notes=FIXME,
-      XXX,
-      TODO
+       XXX,
+       TODO
 
 # Regular expression of note tags to take in consideration.
 notes-rgx=
@@ -523,10 +519,6 @@ max-spelling-suggestions=4
 # Spelling dictionary name. No available dictionaries : You need to install
 # both the python package and the system dependency for enchant to work..
 spelling-dict=
-
-# List of comma separated words that should be considered directives if they
-# appear at the beginning of a comment and should not be checked.
-spelling-ignore-comment-directives=fmt: on,fmt: off,noqa:,noqa,nosec,isort:skip,mypy:
 
 # List of comma separated words that should not be checked.
 spelling-ignore-words=
@@ -615,11 +607,6 @@ allow-global-unused-variables=yes
 
 # List of names allowed to shadow builtins
 allowed-redefined-builtins=
-
-# List of strings which can identify a callback function by name. A callback
-# name must start or end with one of those strings.
-callbacks=cb_,
-          _cb
 
 # A regular expression matching the name of dummy variables (i.e. expected to
 # not be used).
