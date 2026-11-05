@@ -1,62 +1,62 @@
 {
-  "startTime": "2026-10-29T11:00:00Z",
-  "endTime": "2026-11-05T11:00:00Z",
+  "startTime": "2026-11-05T11:00:00Z",
+  "endTime": "2026-11-12T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Feral Rock",
-      "biome": "Magma Core",
-      "seed": 2002874257,
-      "stages": [
-        {
-          "id": 1,
-          "primary": "Dreadnought x2 (H+T)",
-          "secondary": "Morkite x150",
-          "anomaly": null,
-          "warning": "Low Oxygen"
-        },
-        {
-          "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Resinite Mass x1",
-          "anomaly": null,
-          "warning": null
-        },
-        {
-          "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": null,
-          "warning": "Parasites"
-        }
-      ]
-    },
-    {
-      "type": "Elite Deep Dive",
-      "name": "Defect Earth",
+      "name": "Gunner's Caves",
       "biome": "Sandblasted Corridors",
-      "seed": 4191968223,
+      "seed": 350982172,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (H+D)",
+          "primary": "Dreadnought x2 (D+H)",
           "secondary": "Resinite Mass x1",
           "anomaly": null,
           "warning": "Pit Jaw Colony"
         },
         {
           "id": 2,
-          "primary": "On-Site Refining",
-          "secondary": "Dreadnought x1 (H)",
-          "anomaly": "Volatile Guts",
-          "warning": "Duck and Cover"
+          "primary": "Egg x6",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": "Rival Presence"
         },
         {
           "id": 3,
-          "primary": "Morkite x200",
-          "secondary": "Egg x2",
+          "primary": "Morkite x225",
+          "secondary": "Resinite Mass x1",
           "anomaly": null,
           "warning": null
+        }
+      ]
+    },
+    {
+      "type": "Elite Deep Dive",
+      "name": "Eternal Skull",
+      "biome": "Glacial Strata",
+      "seed": 3508747979,
+      "stages": [
+        {
+          "id": 1,
+          "primary": "Egg x6",
+          "secondary": "Black Box",
+          "anomaly": null,
+          "warning": "Exploder Infestation"
+        },
+        {
+          "id": 2,
+          "primary": "Morkite x200",
+          "secondary": "Morkite Well x1",
+          "anomaly": null,
+          "warning": null
+        },
+        {
+          "id": 3,
+          "primary": "Resinite Mass x4",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Elite Threat"
         }
       ]
     }
