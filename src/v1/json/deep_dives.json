@@ -1,31 +1,31 @@
 {
-  "startTime": "2026-11-05T11:00:00Z",
-  "endTime": "2026-11-12T11:00:00Z",
+  "startTime": "2026-11-12T11:00:00Z",
+  "endTime": "2026-11-19T11:00:00Z",
   "variants": [
     {
       "type": "Deep Dive",
-      "name": "Gunner's Caves",
-      "biome": "Sandblasted Corridors",
-      "seed": 350982172,
+      "name": "Ruptured Luck",
+      "biome": "Azure Weald",
+      "seed": 2277187755,
       "stages": [
         {
           "id": 1,
-          "primary": "Dreadnought x2 (D+H)",
+          "primary": "Morkite x200",
+          "secondary": "Crystal Scan x2",
+          "anomaly": null,
+          "warning": "Elite Threat"
+        },
+        {
+          "id": 2,
+          "primary": "Egg x4",
           "secondary": "Resinite Mass x1",
           "anomaly": null,
           "warning": "Pit Jaw Colony"
         },
         {
-          "id": 2,
-          "primary": "Egg x6",
-          "secondary": "Morkite Well x1",
-          "anomaly": null,
-          "warning": "Rival Presence"
-        },
-        {
           "id": 3,
-          "primary": "Morkite x225",
-          "secondary": "Resinite Mass x1",
+          "primary": "Mule x2",
+          "secondary": "Morkite Well x1",
           "anomaly": null,
           "warning": null
         }
@@ -33,30 +33,30 @@
     },
     {
       "type": "Elite Deep Dive",
-      "name": "Eternal Skull",
-      "biome": "Glacial Strata",
-      "seed": 3508747979,
+      "name": "Crumbly Joy",
+      "biome": "Dense Biozone",
+      "seed": 716198686,
       "stages": [
         {
           "id": 1,
           "primary": "Egg x6",
-          "secondary": "Black Box",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": "Exploder Infestation"
+          "warning": "Haunted Cave"
         },
         {
           "id": 2,
-          "primary": "Morkite x200",
-          "secondary": "Morkite Well x1",
+          "primary": "Mule x3",
+          "secondary": "Dreadnought x1 (D)",
           "anomaly": null,
-          "warning": null
+          "warning": "Scrab Nesting Grounds"
         },
         {
           "id": 3,
-          "primary": "Resinite Mass x4",
-          "secondary": "Crystal Scan x2",
+          "primary": "Dreadnought x2 (T+D)",
+          "secondary": "Black Box",
           "anomaly": null,
-          "warning": "Elite Threat"
+          "warning": "Exploder Infestation"
         }
       ]
     }
